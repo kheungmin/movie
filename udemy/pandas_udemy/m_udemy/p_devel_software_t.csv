@@ -1,0 +1,929 @@
+강의명,url,강사명,별점,별점 수,수강생 수,강의 수,강의 총 시간,category
+Selenium WebDriver with Java -Basics to Advanced+Frameworks,https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/,Rahul Shetty,4.6,79604,242747,356,3360.0,software_testing
+Rest API Testing (Automation) from Scratch-Rest Assured Java,https://www.udemy.com/course/rest-api-automation-testing-rest-assured/,Rahul Shetty,4.6,22827,99965,153,1470.0,software_testing
+Selenium 4 WebDriver with Java(Basics + Advance + Architect),https://www.udemy.com/course/selenium-training/,Rahul Arora,4.5,15653,142937,452,8640.0,software_testing
+WebServices/Rest API Testing with SoapUI +Real time Projects,https://www.udemy.com/course/webservices-testing-with-soap-ui/,Rahul Shetty,4.5,14192,68756,87,900.0,software_testing
+Appium -Mobile Testing (Android/IOS) from Scratch+Frameworks,https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/,Rahul Shetty,4.5,13888,72587,166,1710.0,software_testing
+The Complete 2022 Software Testing Bootcamp,https://www.udemy.com/course/testerbootcamp/,Tarek Roshdy,4.6,13016,73207,311,2130.0,software_testing
+Software Testing Bootcamp with Jira & Agile - Be a QA Lead,https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/,Rahul Shetty,4.5,11548,49912,78,630.0,software_testing
+Learn JMETER from Scratch on Live Apps -Performance Testing,https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/,Rahul Shetty,4.5,10931,54339,48,510.0,software_testing
+Selenium Webdriver with PYTHON from Scratch + Frameworks,https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/,Rahul Shetty,4.6,9981,49770,126,1110.0,software_testing
+Postman: The Complete Guide - REST API Testing,https://www.udemy.com/course/postman-the-complete-guide/,Valentin Despa,4.5,9683,56657,142,840.0,software_testing
+Selenium WebDriver 4 With Java - Novice To Ninja + Interview,https://www.udemy.com/course/selenium-webdriver-with-java-testng-and-log4j/,Lets Kode It,4.5,9346,35604,291,2640.0,software_testing
+Robot Framework Test Automation - Level 1 ( Selenium ),https://www.udemy.com/course/robot-framework-level-1/,Bryan Lamb,4.4,8142,32294,77,390.0,software_testing
+Selenium WebDriver with Java for beginners,https://www.udemy.com/course/selenium-for-beginners/,Dmitry Shyshkin,4.6,8018,25910,43,390.0,software_testing
+Cypress -Modern Automation Testing from Scratch + Frameworks,https://www.udemy.com/course/cypress-tutorial/,Rahul Shetty,4.5,7275,34219,100,1020.0,software_testing
+Unit Testing for C# Developers,https://www.udemy.com/course/unit-testing-csharp/,Mosh Hamedani,4.6,7230,35691,86,360.0,software_testing
+Quick Introduction to Postman and API Testing for Beginners,https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/,Valentin Despa,4.6,7014,40210,51,180.0,software_testing
+GCP: Complete Google Data Engineer and Cloud Architect Guide,https://www.udemy.com/course/gcp-data-engineer-and-cloud-architect/,Loony Corn,4.2,6790,46887,226,1680.0,software_testing
+Learn Cucumber BDD with Java -MasterClass Selenium Framework,https://www.udemy.com/course/cucumber-tutorial/,Rahul Shetty,4.6,6353,32278,85,810.0,software_testing
+Selenium WebDriver with Java & Cucumber BDD,https://www.udemy.com/course/automate-tests-using-selenium-webdriver-with-java-cucumber/,Tim Short,4.3,6315,28499,70,390.0,software_testing
+POSTMAN API Testing - Step by Step for Beginners,https://www.udemy.com/course/postman-api-testing-step-by-step-for-beginners/,Raghav Pal,4.4,6009,23274,25,150.0,software_testing
+Selenium WebDriver With Python 3.x - Novice To Ninja,https://www.udemy.com/course/selenium-webdriver-with-python3/,Lets Kode It,4.5,5791,26449,223,1890.0,software_testing
+Build+Deploy+Test with Jenkins 2.0,https://www.udemy.com/course/working-with-jenkins/,Karthik KK,4.3,5565,72571,51,390.0,software_testing
+Selenium WebDriver MasterClass (Basic + Advance + Architect),https://www.udemy.com/course/selenium-webdriver-web-based-automation-testing/,LevelUp360° DevOps | Google Cloud | Terraform | Kubernetes | Ansible,4.5,4982,26132,226,2880.0,software_testing
+Selenium WebDriver + Java. Complete step by step course.,https://www.udemy.com/course/selenium-webdriver-java-complete-step-by-step-course/,IT Room,4.4,4924,14406,111,390.0,software_testing
+ISTQB Foundation Level 2022 Complete Training,https://www.udemy.com/course/foundation-level-training/,Tarek Roshdy,4.5,4813,17535,237,1200.0,software_testing
+Learn Protractor(Angular Testing) from scratch +Framework,https://www.udemy.com/course/protractor-tutorial/,Rahul Shetty,4.6,4751,23015,135,1290.0,software_testing
+Software Testing Masterclass (2022) - From Novice to Expert,https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/,Ozan Ilhan,4.5,4489,24499,93,450.0,software_testing
+Testing Angular 4 (previously Angular 2) Apps with Jasmine,https://www.udemy.com/course/testing-angular-apps/,Mosh Hamedani,4.5,4377,22062,29,120.0,software_testing
+In-Depth Software Testing Training Course From Scratch,https://www.udemy.com/course/qa-software-testing-training-course/,Vijay Shinde,3.6,4030,23021,17,1560.0,software_testing
+Automated Software Testing with Python,https://www.udemy.com/course/automated-software-testing-with-python/,Jose Salvatierra,4.6,3863,26108,142,810.0,software_testing
+Master XPath and CSS Selectors for Selenium WebDriver,https://www.udemy.com/course/xpath-and-css-selectors/,Dezlearn Education,4.4,3441,22494,22,150.0,software_testing
+Understanding Docker and using it for Selenium automation,https://www.udemy.com/course/understanding-docker-performing-selenium-automation/,Karthik KK,4.4,3344,58704,46,360.0,software_testing
+Selenium WebDriver with C# for Beginners + Live Testing Site,https://www.udemy.com/course/seleniumqa/,Tod Vachev,4.3,3203,13660,57,300.0,software_testing
+Core java for Automation Testers- Coding made Easy,https://www.udemy.com/course/core-java-tutorials/,Rahul Shetty,4.4,2922,11023,69,480.0,software_testing
+Practical Java Unit Testing with JUnit 5,https://www.udemy.com/course/junit5-for-beginners/,Adrian Więch,4.6,2917,10868,28,60.0,software_testing
+Top 150+ QA Automation Interview Questions & Resume Tips,https://www.udemy.com/course/qa-automation-interview-questions/,Rahul Shetty,4.6,2887,17060,49,600.0,software_testing
+Selenium WebDriver with Java | Project Implement + Framework,https://www.udemy.com/course/selenium-with-java/,Automation World,4.6,2831,14887,344,2430.0,software_testing
+HP UFT - Basic to Intermediate,https://www.udemy.com/course/hp-uft-qtp-latest-version/,Pavan Lalwani,4.5,2813,11748,41,300.0,software_testing
+Software Testing: Learn Software Testing And Get A Tech Job,https://www.udemy.com/course/get-a-job-in-technology-without-experience/,Waqas Mazhar,4.5,2736,6721,20,90.0,software_testing
+Testing React with Jest and Testing Library,https://www.udemy.com/course/react-testing-library/,Bonnie Schulkin,4.6,2726,15781,94,480.0,software_testing
+ISTQB Foundation Level chapter-wise exams [2022 updated],https://www.udemy.com/course/istqb-foundation-level-2018-syllabus-exams/,Tarek Roshdy,4.6,2403,12425,0,,software_testing
+Robot Framework Test Automation - Level 2,https://www.udemy.com/course/robot-framework-2/,Bryan Lamb,4.5,2385,14782,62,300.0,software_testing
+"REST API Testing, Automation using POSTMAN",https://www.udemy.com/course/rest-api-testing-automation-using-postman/,Tejasvi Hegde,4.3,2276,12311,78,480.0,software_testing
+HP-UFT 12.0 Automation,https://www.udemy.com/course/hp-uft-120-automation/,Coding Gears | Train Your Brain,4.2,2245,20247,55,780.0,software_testing
+Testing Spring Boot: Beginner to Guru,https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/,"John Thompson • 385,000+ Enrollments Worldwide",4.5,2217,19474,214,1020.0,software_testing
+Elegant Automation Frameworks with Python and Pytest,https://www.udemy.com/course/elegant-automation-frameworks-with-python-and-pytest/,Brandon Blair,4.4,2111,9602,15,360.0,software_testing
+REST APIs with Postman for Absolute Beginners,https://www.udemy.com/course/api-with-postman-for-absolute-beginners/,Valentin Despa,4.7,2094,20721,55,210.0,software_testing
+Learn SQL +Security(pen) testing from Scratch,https://www.udemy.com/course/database-testing-tutorial/,Rahul Shetty,4.7,2085,13327,117,810.0,software_testing
+Learn Manual Software Testing with Live Project + Jira Tool,https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/,Pavan Kumar,4.6,2084,8566,15,1200.0,software_testing
+Unit Testing and Test Driven Development in Python,https://www.udemy.com/course/unit-testing-and-tdd-in-python/,Richard Wells,4.3,2043,8799,23,120.0,software_testing
+SDET/Test Architect Essentials -Road to Full stack QA,https://www.udemy.com/course/sdettraining-testarchitect-fullstackqa/,Rahul Shetty,4.5,1989,14839,74,780.0,software_testing
+Automation Architect - Selenium WebDriver - 9 Live Projects,https://www.udemy.com/course/selenium-automation-architect-tutorials/,Rahul Arora,4.4,1907,14087,296,6210.0,software_testing
+Unit Testing Dotnet (.NET) Application with xUnit .net & MOQ,https://www.udemy.com/course/unit-testing-net-core-2x-applications-with-xunit-net/,Aref Karimi,4.2,1781,7807,39,210.0,software_testing
+HP LoadRunner 12.55,https://www.udemy.com/course/hp-loadrunner/,Pavan Lalwani,4.4,1750,8044,28,270.0,software_testing
+Performance Testing Course with JMeter and Blazemeter,https://www.udemy.com/course/performance-testing-course-with-jmeter-and-blazemeter/,Federico Toledo,4.1,1701,9840,37,120.0,software_testing
+Rest API/Web Services testing with SoapUI+Realtime scenarios,https://www.udemy.com/course/web-services-testing-with-soap-ui/,Sashi R,4.1,1664,9104,87,600.0,software_testing
+Selenium WebDriver with Java from Basics till Expert level,https://www.udemy.com/course/selenium-tutorials/,Rahul Arora,4.6,1587,5743,360,6720.0,software_testing
+Automated Software Testing with Cypress,https://www.udemy.com/course/automated-testing-with-cypress/,Kaniel Outis,4.5,1584,9529,196,960.0,software_testing
+Protractor: End to End testing framework for AngularJS Apps,https://www.udemy.com/course/angularjs-protractor-tutorial/,Rahul Arora,4.4,1567,7542,146,1050.0,software_testing
+Postman - Learn API Testing from Scratch with Live Projects,https://www.udemy.com/course/postman-api-automation-testing-with-javascript/,Rahul Shetty,4.6,1564,10975,75,720.0,software_testing
+Automation Testing using Selenium & Katalon Studio,https://www.udemy.com/course/automation-testing-using-selenium-katalon-studio/,Rahul Singh Rathore,4.4,1559,10002,174,1170.0,software_testing
+Wanna Learn JMeter ?Get Training by Industry Experts-23+hrs,https://www.udemy.com/course/basic-to-expert-jmeter/,Automation World,4.3,1491,8852,199,1410.0,software_testing
+Azure Devops Crash Course -Build CI/CD release pipelines,https://www.udemy.com/course/azure-devops-fundamental/,Rahul Shetty,4.5,1471,10548,50,450.0,software_testing
+Performance Testing using LoadRunner 12.50,https://www.udemy.com/course/performance-testing-using-microfocus-loadrunner-basics-advanced/,kumar Gupta,4.5,1453,6485,140,2040.0,software_testing
+XPath locators for Selenium,https://www.udemy.com/course/xpath-locators-for-selenium/,Dmitry Shyshkin,4.6,1450,5340,26,150.0,software_testing
+"Selenium WebDriver 4, Cucumber BDD, Java & More! [NEW: 2022]",https://www.udemy.com/course/cucumber-bdd-selenium-java-complete-automation-course/,Gianni Bruno,4.7,1428,5743,226,1260.0,software_testing
+REST API Automation With REST Assured - A Complete Guide,https://www.udemy.com/course/rest-api-automation-with-rest-assured-part-2/,Tejasvi Hegde,4.1,1424,8700,108,840.0,software_testing
+Selenium WebDriver and Java - Learn Automation with Selenium,https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/,in28Minutes Official,4.4,1423,18857,426,2340.0,software_testing
+"TestNG - All in One (Crash Course), Interview question & MCQ",https://www.udemy.com/course/testng-all-in-one-crash-course/,Fast n Easy Learning,4.4,1415,9206,67,360.0,software_testing
+Mobile Automation: Appium Cucumber for Android&iOS + Jenkins,https://www.udemy.com/course/test-automation-with-appium-cucumber-and-ruby/,Alex Petrovski,3.9,1374,8082,59,360.0,software_testing
+ISTQB Certified Tester - Foundation Level 2022 - Accredited,https://www.udemy.com/course/accredited-istqb-certified-tester-foundation-level-course/,Wouter Vrijen,4.7,1380,6196,77,690.0,software_testing
+Software Testing/ QA: Learn Basic Testing with live examples,https://www.udemy.com/course/software-qa-testing-strong-basics-with-live-examples/,Syam Mohan,3.7,1364,3153,13,120.0,software_testing
+Appium - Mobile Testing with Latest 1.22 and Live Projects,https://www.udemy.com/course/appium-selendroid-tutorials/,Rahul Arora,3.8,1352,9961,322,3990.0,software_testing
+Automation framework development with Selenium C# (Advanced),https://www.udemy.com/course/framework-development-with-selenium-csharp-advanced/,Karthik KK,4.4,1334,7100,138,960.0,software_testing
+"SDET Training: Selenium WebDriver, Java Project & Code Tests",https://www.udemy.com/course/selenium-automation-tester-interview-preparation/,Shaans Training,4.3,1313,15143,77,960.0,software_testing
+BDD with Selenium Webdriver and Specflow using C#,https://www.udemy.com/course/bdd-with-selenium-webdriver-and-speckflow-using-c/,Rahul Singh Rathore,4.1,1304,6815,158,1740.0,software_testing
+"Software Testing,QA Testing, Manual Testing,SDLC,Test Plan",https://www.udemy.com/course/software-testing-qa-fundamentals-and-manual-testing-concept/,QAEversity .,4.3,1243,4444,13,120.0,software_testing
+WebdriverIO - Selenium Webdriver using Node.js & More!,https://www.udemy.com/course/automation-testing-javascript-webdriverio-selenium-more/,Gianni Bruno,4.3,1225,5203,182,1020.0,software_testing
+Karate DSL: API Automation and Performance from Zero to Hero,https://www.udemy.com/course/karate-dsl-api-automation-and-performance-from-zero-to-hero/,Artem Bondar,4.6,1224,5686,45,420.0,software_testing
+Automation with Ansible Playbooks - Hands On !!,https://www.udemy.com/course/automation-with-ansible/,Shikhar Verma • 50k+ Students Worldwide,4.2,1217,7071,95,540.0,software_testing
+WebDriverIO + Node.js -JavaScript UI Automation from Scratch,https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/,Rahul Shetty,4.6,1212,7263,76,690.0,software_testing
+Advanced Selenium WebDriver with Java and TestNG,https://www.udemy.com/course/advanced-selenium-webdriver/,Dmitry Shyshkin,4.5,1212,7187,52,300.0,software_testing
+Introduction to QA Software Testing  Professionalism,https://www.udemy.com/course/introduction-to-sw-qa-testing-professionalism/,Alik Feld,4.1,1186,8993,9,41.0,software_testing
+Node.js Unit Testing In-Depth,https://www.udemy.com/course/nodejs-unit-testing-in-depth/,Murtez Alrohani,4.6,1177,29494,45,150.0,software_testing
+"Selenium WebDriver with Docker, Jenkins & AWS",https://www.udemy.com/course/selenium-webdriver-with-docker/,Vinoth Selvaraj,4.6,1165,9465,188,960.0,software_testing
+"Software Testing: WEB, Mobile, API + 12 tools + ISTQB exam",https://www.udemy.com/course/software-testing-web-mobile-api-22-tools-istqb-exam/,Sergei Semenov,3.7,1154,3716,32,210.0,software_testing
+Robot Framework - Jenkins CI & Git Version Control,https://www.udemy.com/course/robot-framework-jenkins-git/,Bryan Lamb,4.6,1151,6476,26,120.0,software_testing
+REST API Testing Automation with Java + PostMan + Framework,https://www.udemy.com/course/api-testing-rest-api-automation-testing-from-scratch/,LevelUp360° DevOps | Google Cloud | Terraform | Kubernetes | Ansible,4.2,1070,8616,178,1650.0,software_testing
+Learn Robot Framework (Selenium) from Industry Expert|22+hr,https://www.udemy.com/course/robot-python/,Testing World Infotech,4.5,1064,5933,227,1830.0,software_testing
+End to End automation testing with Cypress,https://www.udemy.com/course/e2e-cypress/,Karthik KK,4.3,1054,7048,84,630.0,software_testing
+Basic Manual Software Testing +Agile+Bugzilla for beginners,https://www.udemy.com/course/manual-software-testing-course-best-for-beginners/,kiran kumar kuchana,4.3,1050,4805,54,570.0,software_testing
+"REST Assured API Automation,Allure Reports - An Introduction",https://www.udemy.com/course/rest-api-testing-with-rest-assuredpostman-part1/,Tejasvi Hegde,4.0,1046,12034,51,270.0,software_testing
+Webservices API Testing with Rest Assured API & POSTMAN 2021,https://www.udemy.com/course/webservices-testing-restassured-api-tutorial/,Rahul Arora,4.6,1026,6456,187,2280.0,software_testing
+WebServices/API Testing by SoapUI & ReadyAPI - Groovy |30+hr,https://www.udemy.com/course/soapui-with-groovy-with-realtime-projects/,Automation World,4.5,1026,5920,256,1860.0,software_testing
+Learn API Automation Testing with Python & BDD Framework,https://www.udemy.com/course/python-sdet-rest-api-automation/,Rahul Shetty,4.7,989,7780,78,690.0,software_testing
+Mockito: Next-Level Java Unit Testing,https://www.udemy.com/course/mockito3/,Adrian Więch,4.7,973,4455,28,120.0,software_testing
+Specialize in QA Manual Testing with Live Project+AGILE+JIRA,https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/,Aakriti E-Learning Academy,4.5,953,13404,53,630.0,software_testing
+Cypress V9 - Automation Testing in Detail (35+ hours) - 2022,https://www.udemy.com/course/cypress-io-master-class/,Gianni Bruno,4.7,879,4945,325,2160.0,software_testing
+Automated  Software Testing with Puppeteer,https://www.udemy.com/course/automated-headless-browser-testing-with-puppeteer/,Kaniel Outis,4.4,871,4891,171,810.0,software_testing
+REST Assured Fundamentals,https://www.udemy.com/course/rest-assured-fundamentals/,James Willett,4.4,864,8699,46,210.0,software_testing
+The Expert’s Guide of Selenium with Python | BDD Framework,https://www.udemy.com/course/selenium-with-python/,Automation World,4.4,852,4035,327,2040.0,software_testing
+Manual Software Testing With Bug Reporting Tool JIRA  & ALM,https://www.udemy.com/course/manual-software-testing-with-bugreporting-tool-almqc/,kiran kumar kuchana,4.0,842,2978,78,720.0,software_testing
+Learn ETL Testing With Informatica PowerCenter Today,https://www.udemy.com/course/etl-testing-for-beginners/,The Startup Central Co.,4.1,832,6118,13,120.0,software_testing
+REST Assured API Automation from scratch + Framework + CI,https://www.udemy.com/course/rest-assured-api-automation/,Omprakash Chavan,4.6,818,5683,244,1380.0,software_testing
+Selenium Python - Step by Step for Beginners with Framework,https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/,Raghav Pal,4.3,811,3621,56,600.0,software_testing
+Beginning Test Driven Development in C++,https://www.udemy.com/course/beginning-test-driven-development-in-c/,Richard Wells,4.3,807,4667,19,150.0,software_testing
+Automated Software Testing with WebdriverIO,https://www.udemy.com/course/automated-software-testing-with-webdriverio/,Kaniel Outis,4.6,784,4352,118,600.0,software_testing
+"REST API Automation:REST Assured,Serenity BDD Framework",https://www.udemy.com/course/rest-api-automation-with-rest-assuredserenity-bdd-framework/,Tejasvi Hegde,3.6,775,5484,39,330.0,software_testing
+Web Security and Hacking for Beginners,https://www.udemy.com/course/one-month-web-security/,One Month,4.4,770,10369,75,300.0,software_testing
+Learn Test Driven Development in Java,https://www.udemy.com/course/learn-test-driven-development-in-java/,Fluent Software Solutions,4.2,769,4804,36,180.0,software_testing
+Rest API Automation With Rest Assured - Novice To Ninja,https://www.udemy.com/course/rest-api-automation/,Lets Kode It,4.3,767,4012,103,840.0,software_testing
+Appium Mobile Automation - Android & iOS + Frameworks + CICD,https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/,Omprakash Chavan,4.6,765,5493,170,2460.0,software_testing
+Automated Software Testing with TestCafe,https://www.udemy.com/course/automated-testing-with-testcafe/,Kaniel Outis,4.3,760,2961,102,540.0,software_testing
+Software Testing : Learn Manual/QA Testing + ISTQB CTFL Help,https://www.udemy.com/course/software-testing-and-career-in-qa/,Engineering Mentor,4.3,743,4684,60,390.0,software_testing
+SOFTWARE TESTING MASTERCLASS-2022-JIRA | AGILE | API Testing,https://www.udemy.com/course/software-manualtesting/,Testing World,4.5,738,4246,121,840.0,software_testing
+Unit testing your Javascript with jasmine,https://www.udemy.com/course/unit-testing-your-javascript-with-jasmine/,Juan Lizarazo,3.7,720,4795,86,360.0,software_testing
+Step by Step Rest API Testing using Python + Pytest +Allure,https://www.udemy.com/course/api-testing-python/,Testing World Infotech,4.4,713,4212,195,1710.0,software_testing
+JMETER - Master Performance & Load Testing(Basics + Advance),https://www.udemy.com/course/jmeter-tutorial/,Rahul Arora,4.1,697,4364,66,1920.0,software_testing
+Spring Boot Fundamentals with Unit Testing (MockMVC/Mockito),https://www.udemy.com/course/spring-boot-fundamentals-with-unit-testing-mockmvcmockito/,Rahul Shetty,4.6,661,4974,47,480.0,software_testing
+The Complete Quality Assurance Course- Learn QA from Scratch,https://www.udemy.com/course/the-complete-quality-assurance/,Victor Gorinov,4.4,653,6940,88,570.0,software_testing
+Get Expertise in Database Testing(SQL) + Linux for Testers,https://www.udemy.com/course/sql-for-testers/,Automation World,4.4,648,4218,177,1080.0,software_testing
+Automation framework with Selenium Java (Advanced),https://www.udemy.com/course/automation-framework-with-selenium/,Karthik KK,4.2,624,4059,110,780.0,software_testing
+Advanced Automation Testing with Quick Test Pro (QTP) or UFT,https://www.udemy.com/course/automation-testing-using-quick-test-pro-qtp-training/,QAEversity .,3.8,588,3916,49,480.0,software_testing
+Ansible Automation For Beginners to Advance - Step by Step,https://www.udemy.com/course/ansible-the-complete-automation-hands-on-guide-devops-beginners/,Up Degree,3.2,565,15414,40,240.0,software_testing
+Load Testing Using HP LoadRunner 12,https://www.udemy.com/course/loadrunner12/,Mentors Net,4.0,544,2818,91,660.0,software_testing
+Mastering SmartBear TestComplete,https://www.udemy.com/course/mastering-smartbear-testcomplete/,Lino Tadros,4.3,540,2134,46,570.0,software_testing
+Java Design Patterns & Devops to build Selenium Framework,https://www.udemy.com/course/selenium-design-patterns-framework-design/,Rahul Shetty,4.6,539,5548,49,420.0,software_testing
+Complete Cucumber Framework for BDD,https://www.udemy.com/course/cucumber-framework-for-behavior-driven-development/,Tim Short,4.5,537,2854,34,150.0,software_testing
+Katalon Studio Beginners - Hands-on Training,https://www.udemy.com/course/katalon-studio-beginners-hands-on-training/,Raghav Pal,4.6,526,2086,63,630.0,software_testing
+Software testing and Automation of APIs with UFT/QTP,https://www.udemy.com/course/software-testing-api-testing-101-with-uft/,QTP  Tutorial,3.8,511,3540,115,270.0,software_testing
+BDD in C# - using Specflow (Cucumber) to develop a REST API and automate software testing,https://www.udemy.com/course/bdd-in-c-using-specflow-cucumber-to-develop-a-rest-api/,Binary Brain,3.7,508,5781,12,90.0,software_testing
+Angular automation with Protractor + Typescript + Cucumber,https://www.udemy.com/course/protractor/,Karthik KK,4.6,500,2775,47,420.0,software_testing
+DOCKER | Step by Step for Beginners | with Sample Project,https://www.udemy.com/course/what-is-docker-step-by-step-for-beginners/,Raghav Pal,3.9,494,7482,23,300.0,software_testing
+Performance Testing Using Locust 1.0,https://www.udemy.com/course/performance-testing-using-locust/,Anuradha Agarwal,4.1,492,2662,59,450.0,software_testing
+Software Testing :Effective Test Case Writing & Formatting,https://www.udemy.com/course/test-case/,Testing World,4.3,488,1879,23,90.0,software_testing
+"Instant Test Driven Development with Java, JUnit and Mockito",https://www.udemy.com/course/instant-test-driven-development-with-junit/,Ashley Frieze,4.0,488,3949,49,240.0,software_testing
+Job oriented - Practical Software QA Testing,https://www.udemy.com/course/job-oriented-practical-software-qa-testing/,Neil De Odhar,4.5,487,2356,12,450.0,software_testing
+Java Lambda & Streams [Examples With Selenium WebDriver],https://www.udemy.com/course/java-8-and-beyond-for-testers/,Vinoth Selvaraj,4.4,476,3833,192,780.0,software_testing
+Test Automation with Katalon Studio (Selenium WebDriver),https://www.udemy.com/course/automation-testing-using-katalon-studio-selenium-webdriver/,Abode QA,4.9,475,2935,101,630.0,software_testing
+Mobile Testing Masterclass (2022) From The Beginning,https://www.udemy.com/course/mobile-testing-masterclass-from-the-beginning/,Ozan Ilhan,4.4,467,3253,46,180.0,software_testing
+ISTQB Agile Tester Sample Exams,https://www.udemy.com/course/istqb-agile-tester-sample-exams/,Tarek Roshdy,4.4,467,6377,0,,software_testing
+Selenium WebDriver and Design Patterns,https://www.udemy.com/course/selenium-webdriver-and-design-patterns/,Vinoth Selvaraj,4.4,458,3380,106,450.0,software_testing
+PowerUp Automation with Unified Functional Testing/UFT ,https://www.udemy.com/course/introducing-automation-with-unified-functional-testinguft/,QAEversity .,3.3,449,4194,19,90.0,software_testing
+Quality Assurance Mastery - Manual Software Testing,https://www.udemy.com/course/quality-assurance-manual/,Victor Gorinov,4.5,441,8823,21,120.0,software_testing
+Testing React apps with React Testing Library (RTL),https://www.udemy.com/course/testing-react-apps-with-react-testing-library-rtl/,David Armendáriz,4.3,436,2180,25,150.0,software_testing
+API Testing : REST API Testing using Python for Beginners,https://www.udemy.com/course/rest-api-rest-api-testing-using-python-for-beginners/,Prathap G,4.6,428,5842,31,270.0,software_testing
+Linux(Unix) Command with Shell Scripting-Must for Testers/QA,https://www.udemy.com/course/unixfortesters/,Automation World,4.2,423,2247,107,630.0,software_testing
+Selenium in Java - Setup Simple Test Automation Framework,https://www.udemy.com/course/selenium-in-java-taf-for-beginners-learnit/,Tigran Ter-Karapetyants,4.3,420,81826,24,240.0,software_testing
+Test Automation Framework [ Spring Boot + Selenium + BDD ],https://www.udemy.com/course/cucumber-with-spring-boot/,Vinoth Selvaraj,4.6,402,2977,161,630.0,software_testing
+Expert's Practical Guide of API Testing using Postman-2022,https://www.udemy.com/course/testing-using-postman/,Testing World,4.7,392,2927,111,810.0,software_testing
+Selenium WebDriver Test Automation Framework With Real Project,https://www.udemy.com/course/webdriver-test-automation-framework-step-by-step/,Ken Ho,4.1,390,12397,44,300.0,software_testing
+"Automation Testing Masterclass - Selenium, Cucumber and More",https://www.udemy.com/course/automation-testing-masterclass/,Laurentiu Raducu,4.4,387,36638,137,990.0,software_testing
+Step in to Java Automation|Try Step by Step Java for Testers,https://www.udemy.com/course/java-for-software-testers/,Automation World,4.7,380,3098,133,810.0,software_testing
+Best Software QA Testing Training H2K Infosys Live Classes,https://www.udemy.com/course/best-software-qa-testing-training-by-h2k-infosys/,H2K Infosys,3.6,379,4129,53,510.0,software_testing
+"UI Automation with Serenity BDD (Selenium, Cucumber, Junit)",https://www.udemy.com/course/ui-automation-with-serenity-bdd/,Tejasvi Hegde,4.0,363,2651,64,690.0,software_testing
+"Selenium, C# and Everything in Between",https://www.udemy.com/course/selenium-csharp-and-everything-in-between/,Roei Sabag,4.2,362,2260,110,630.0,software_testing
+TestNG Complete Bootcamp For Beginners - Novice To Ninja,https://www.udemy.com/course/testng-complete-bootcamp/,Lets Kode It,4.5,360,3934,38,300.0,software_testing
+"Gherkin and Cucumber: BDD Testing for IOS, Android, and Web",https://www.udemy.com/course/gherkin-and-cucumber-bdd-testing-for-apps-and-websites/,Shannon Atkinson,3.7,358,6075,36,120.0,software_testing
+Appium WinAppDriver UI Automation Testing Windows Apps in C#,https://www.udemy.com/course/appium-winappdriver-automation-testing/,Naeem Akram,4.4,353,1470,79,300.0,software_testing
+Selenium WebDriver: JavaScript Automation For Beginners 2019,https://www.udemy.com/course/selenium-webdriver/,Rangel Stoilov,4.4,346,12818,23,180.0,software_testing
+Manual Software Testing: Complete Course with Practical Labs,https://www.udemy.com/course/manual-software-testing-h/,Balvir Chahal,4.5,345,1025,26,450.0,software_testing
+Java (and Cucumber) for Automation Testing,https://www.udemy.com/course/java-and-cucumber-for-automation-testing/,Manual 2 Automation Testing,4.5,334,13297,77,810.0,software_testing
+Selenium WebDriver with C# from Scratch - Nunit Framework,https://www.udemy.com/course/selenium-webdriver-with-csharp-nunit/,Rahul Shetty,4.6,319,2332,58,600.0,software_testing
+Web & API Automation by KATALON STUDIO(Best for Newbies),https://www.udemy.com/course/katalonstudio/,Testing World,4.4,317,3441,138,1020.0,software_testing
+Complete Robot Framework Guide - Beginner to Expert,https://www.udemy.com/course/complete-guide-to-robot-framework-beginner-to-expert/,Bharat Malik,4.5,315,3950,153,990.0,software_testing
+Angular Fundamentals from Scratch & Unit/Integration Testing,https://www.udemy.com/course/angular-fundamentals-unit-integration-testing/,Rahul Shetty,4.6,315,2766,63,660.0,software_testing
+Certified Web Application Security Tester (C-WAST),https://www.udemy.com/course/certified-web-application-tester/,Cyber Security & Privacy Foundation Pte Ltd,3.6,310,4847,35,240.0,software_testing
+Robot Framework Test Automation - Saucelabs Integration,https://www.udemy.com/course/robot-framework-saucelabs-integration/,Bryan Lamb,4.1,308,2835,21,60.0,software_testing
+Web Automation-Selenium-Ruby|E-2-E Cucumber integration-15hr,https://www.udemy.com/course/selenium-ruby/,Testing Solution,3.8,307,1401,217,930.0,software_testing
+An Intro to Software Testing: Ultimate Guide for Testers,https://www.udemy.com/course/software-testing-guide/,Fareed Raja,4.0,306,5648,27,90.0,software_testing
+Web Service Testing using RestAssured & Apache HttpClient,https://www.udemy.com/course/web-service-testing-using-apache-httpclient/,Rahul Singh Rathore,4.8,304,2321,154,960.0,software_testing
+Unit Testing for Typescript & NodeJs Developers with Jest,https://www.udemy.com/course/unit-testing-typescript-nodejs/,Alex Horea,4.4,292,3202,44,240.0,software_testing
+Microservices Contract Testing with Pact,https://www.udemy.com/course/microservices-contract-testing-with-pact/,Rahul Shetty,4.4,290,2980,24,240.0,software_testing
+Appium and Selenium with Python From Basics to Framework.,https://www.udemy.com/course/appium-and-selenium-with-python/,Sujith Reddy,4.5,284,1927,230,1110.0,software_testing
+Webservices API Testing with Postman - Complete Guide,https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/,Tigran Ter-Karapetyants,4.3,278,57383,35,270.0,software_testing
+Selenium Java Test Framework & Best Practices - Masterclass,https://www.udemy.com/course/selenium-java-test-framework/,Omprakash Chavan,4.6,276,2480,213,1230.0,software_testing
+"HP UFT Online Training, HP QTP Online Course, free videos",https://www.udemy.com/course/automation-testing-hp-uft-unified-functional-testing-qtp/,H2K Infosys,3.3,265,2684,41,270.0,software_testing
+Learn Automation with Geb and Spock,https://www.udemy.com/course/learn-automation-with-geb-and-spock/,Abode QA,4.6,265,1103,70,390.0,software_testing
+UiPath Test Automation,https://www.udemy.com/course/uipath-test-automation/,Bryan Lamb,4.4,265,1850,47,240.0,software_testing
+Software Testing Fundamentals + Common Interview Q&A.,https://www.udemy.com/course/software-testing-fundamentals-common-interview-qa/,IT Room,4.2,257,594,27,60.0,software_testing
+Selenium Automation: a complete package,https://www.udemy.com/course/selenium-webdriver-with-maven-jenkins-git-cucumber/,Chandan Kumar,4.1,250,55621,19,990.0,software_testing
+Automated Software Testing with Playwright,https://www.udemy.com/course/automated-software-testing-with-playwright/,Kaniel Outis,4.5,250,1914,137,690.0,software_testing
+Looking to Learn BDD - Cucumber....? Get expertise in 2 hrs,https://www.udemy.com/course/bdd-with-cucumber/,Testing World,4.2,244,1287,27,180.0,software_testing
+QA manual testing from the beginning,https://www.udemy.com/course/qa-manual-testing-from-the-beginning/,Hema Prasad GH,4.4,226,842,27,210.0,software_testing
+Selenium in C# - Setup Simple Test Automation Framework,https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/,Tigran Ter-Karapetyants,4.2,225,60762,25,240.0,software_testing
+Automation Testing with QTP,https://www.udemy.com/course/software-testing-qtp-tutorial-advanced-automated-framework/,QTP  Tutorial,3.5,219,9002,15,90.0,software_testing
+Test Reporting - Know-How & Templates for Test Managers,https://www.udemy.com/course/testreporting-know-how-for-testmanagers/,Nicolas Scheel,4.3,217,1194,25,90.0,software_testing
+Selenium IDE ,https://www.udemy.com/course/selenium-ide/,Ganesh Sahai,4.0,216,1602,44,540.0,software_testing
+New to Python Automation ? Step by Step Python 4 Tester-2022,https://www.udemy.com/course/step-by-step-python/,Testing World Infotech,4.4,209,1802,136,660.0,software_testing
+Software Testing,https://www.udemy.com/course/software-testing-course/,Ganesh Sahai,4.0,206,2616,36,1350.0,software_testing
+Web Automation Testing For Beginners Using Nightwatch.js,https://www.udemy.com/course/web-automation-testing-for-beginners-using-nightwatchjs/,Christopher Jackson,4.3,206,818,68,210.0,software_testing
+REST API WebService Automation Testing-ReadyAPI-SoapuiNG PRO,https://www.udemy.com/course/rest-api-webservice-automation-testing-soapuing-pro-readyapi/,Subhash Chandra Basavaraju,4.6,206,2107,73,480.0,software_testing
+Learn how to become an amazing QA Professional Tester,https://www.udemy.com/course/qa-testing-not-only-for-professionals/,Alik Feld,3.9,206,803,23,150.0,software_testing
+Playwright JS Automation Testing from Scratch with Framework,https://www.udemy.com/course/playwright-tutorials-automation-testing/,Rahul Shetty,4.7,203,2437,69,840.0,software_testing
+Learn Rest API Automation Using Rest Assured,https://www.udemy.com/course/learn-rest-api-automation-using-rest-assured/,Dezlearn Education,4.4,202,23525,66,330.0,software_testing
+Test Automation from scratch. Selenium IDE (SideeX).,https://www.udemy.com/course/test-automation-from-scratch-selenium-ide-sideex/,IT Room,3.4,201,511,9,44.0,software_testing
+Web Application Automation - Selenium - Ruby - Cucumber,https://www.udemy.com/course/selenium-with-ruby/,Testing World,4.5,201,1021,84,390.0,software_testing
+Master Test Management with HP ALM tutorials /Quality Center,https://www.udemy.com/course/master-test-management-with-hp-alm-tutorials-seal-qa-jobs/,QAEversity .,3.3,200,1676,5,33.0,software_testing
+Software Quality Assurance,https://www.udemy.com/course/software-quality-assurance/,Michael Cesino,4.3,200,994,28,330.0,software_testing
+Complete Guide to Unit Testing in .NET Core (NUnit & XUnit),https://www.udemy.com/course/complete-guide-to-unit-testing-in-net-core-nunit-xunit/,Bhrugen Patel,4.5,196,1543,88,300.0,software_testing
+Jump Start in  Automation - Selenium WebDriver with Python,https://www.udemy.com/course/jump-start-in-automation-testing-with-python-selenium2016/,Joby Joseph,3.8,195,5340,57,210.0,software_testing
+Step by Step API Automation using RESTASSURED & JAVA,https://www.udemy.com/course/api-testing-by-java-programming/,Testing World,4.6,188,813,106,870.0,software_testing
+Web Application Performance Testing,https://www.udemy.com/course/web-application-performance-testing/,Mentors Net,3.9,187,1658,57,420.0,software_testing
+Performance Testing Using Gatling,https://www.udemy.com/course/performance-testing-using-gatling-advanced-level/,Anuradha Agarwal,4.3,184,1700,65,420.0,software_testing
+Cucumber BDD Masterclass with Selenium 4 & Java + Framework,https://www.udemy.com/course/cucumber-bdd-masterclass/,Omprakash Chavan,4.6,183,1604,160,1020.0,software_testing
+Learn Web Automation Testing Using Selenium,https://www.udemy.com/course/learn-web-automation-testing-using-selenium/,Eduonix Learning Solutions,3.5,180,1414,31,300.0,software_testing
+Selenium Automation testing from scratch,https://www.udemy.com/course/selenium-automation-testing-from-scratch/,Hema Prasad GH,3.7,179,804,30,840.0,software_testing
+Element Locators: 60 Minutes Crash Course for CSS & Xpath,https://www.udemy.com/course/rspec-for-testers/,Testing World,3.7,179,3478,18,60.0,software_testing
+CICD (DevOPs Tools) for Automation Testers (Selenium),https://www.udemy.com/course/cicd-devops-tools-for-automation-testers-selenium/,AutomationTalks,3.9,179,7136,32,480.0,software_testing
+API (WebServices) Performance Testing-Loadrunner(SOAP &REST),https://www.udemy.com/course/webservices-performance-testing-using-loadrunner-soap-restful/,kumar Gupta,3.9,178,1153,83,900.0,software_testing
+Jira Agile Project Management for Beginners-Bonus Confluence,https://www.udemy.com/course/learning-jira-and-agile-project-management-101-for-beginners/,Patrick Fagan,4.3,178,5513,72,420.0,software_testing
+Automate application with Specflow and Selenium C#,https://www.udemy.com/course/bdd-with-specflow-and-selenium-csharp/,Karthik KK,4.0,178,2660,38,390.0,software_testing
+REST Assured. API test automation for beginners,https://www.udemy.com/course/rest-assured-for-beginners/,Dmitry Shyshkin,4.6,176,635,26,210.0,software_testing
+Server Infrastructure,https://www.udemy.com/course/server-infrastructure/,Learn Tech Plus,3.0,176,37174,15,60.0,software_testing
+Introduction to Computer Networks for QA Testers,https://www.udemy.com/course/introduction-to-computer-networks-for-qa-testers/,Alik Feld,4.3,173,4869,11,90.0,software_testing
+Start and Develop a Successful Career in Software Testing,https://www.udemy.com/course/start-and-develop-a-successful-career-in-software-testing/,"Magdy Hanna, Ph.D.",3.4,172,646,24,600.0,software_testing
+Absolute Beginner POSTMAN Training,https://www.udemy.com/course/absolute-beginner-postman-course/,Ricardo Custodio,4.0,172,2170,17,90.0,software_testing
+End to End Integration : Selenium - Maven - Git - Jenkins,https://www.udemy.com/course/selenium-maven-git-jenkins/,Testing World Infotech,3.5,172,932,16,60.0,software_testing
+REST API Automation with RestSharp & HTTP Client,https://www.udemy.com/course/rest-api-automation-with-restsharp-http-client/,Rahul Singh Rathore,3.9,171,966,142,600.0,software_testing
+"JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD",https://www.udemy.com/course/testing-for-developers/,Andrii Piatakha,4.5,171,46729,16,240.0,software_testing
+Complete Selenium Ruby Automation Engineer Bootcamp,https://www.udemy.com/course/complete-automation-engineer-bootcamp/,Ashok Tulachan,4.3,171,1290,98,840.0,software_testing
+Selenium Webdriver course with Java for Beginners,https://www.udemy.com/course/selenium-webdriver-course-with-java-for-beginners-with-java/,Sashi R,4.6,168,3712,48,540.0,software_testing
+The Ultimate Python Unit Testing Course,https://www.udemy.com/course/python-unit-testing/,Mohammad Mahjoub,3.8,166,1057,95,510.0,software_testing
+Ultimate - ISTQB - Test Automation Engineer Course 2022,https://www.udemy.com/course/ultimate-istqb-advanced-level-test-automation-engineer/,Abdul Bari Mohammed,3.0,165,511,32,810.0,software_testing
+Technical Web Testing 101,https://www.udemy.com/course/technical-web-testing-101/,Alan Richardson,4.3,162,9541,133,720.0,software_testing
+Rest API Testing using Robot Framework - Request Library,https://www.udemy.com/course/robot-framework-api-testing/,Testing World Infotech,3.4,159,627,42,300.0,software_testing
+Roadmap to become a Test Automation Engineer,https://www.udemy.com/course/road-map-to-become-test-automation-engineer/,Ambreen Khan,4.3,158,984,45,60.0,software_testing
+Selenium WebDriver with C# for Beginners,https://www.udemy.com/course/selenium-webdriver-with-c-sharp/,Victor Gorinov,4.2,151,13937,44,300.0,software_testing
+Selenium Mastery: Apply What You Learn Here Today By RicherU,https://www.udemy.com/course/selenium-webdriver-20-a-beginners-guide-to-selenium/,Rico Rodriguez,3.6,151,5180,44,300.0,software_testing
+Test automation of REST services,https://www.udemy.com/course/automation-testing-rest-services/,Alex Zvolinskiy,3.9,150,800,28,150.0,software_testing
+New to AngularJS Automation.?Try Protractor-Best for Newbies,https://www.udemy.com/course/jquery-for-testers/,Testing World,3.9,148,657,110,540.0,software_testing
+Postman API Testing 2021 | Step by Step for Beginners,https://www.udemy.com/course/postman-api-testing-2020-step-by-step-for-beginners/,Raghav Pal,4.0,148,682,41,420.0,software_testing
+Practical Software Testing 2022-Manual+JIRA+API+DB+Selenium,https://www.udemy.com/course/selenium-cucumber-integration/,Testing World Infotech,4.4,148,2026,360,5370.0,software_testing
+Software Tester: From Zero To Hero!,https://www.udemy.com/course/software-tester-from-zero-to-hero/,Michele Spoldi,4.6,145,599,42,540.0,software_testing
+API TESTING MASTERCLASS -2022 using POSTMAN | NEWMAN |JMETER,https://www.udemy.com/course/rest-api-performance/,Testing World Infotech,4.4,145,1485,86,600.0,software_testing
+Website Automation Testing for Beginners with Protractor,https://www.udemy.com/course/website-automation-for-beginners-with-protractor/,Jason Myers,4.5,145,541,67,480.0,software_testing
+Jenkins Tutorial For Beginners (DevOps and Developers),https://www.udemy.com/course/jenkins-tutorial-for-beginners-devops-and-developers/,Yogesh Patel,4.5,145,4869,31,360.0,software_testing
+Learn by Example: JUnit,https://www.udemy.com/course/learn-by-example-junit/,Loony Corn,3.9,144,2930,26,180.0,software_testing
+Mastering XPath and CSS Selector for Selenium,https://www.udemy.com/course/mastering-xpath-and-cssselector-for-selenium/,Krishna Sakinala,4.5,143,577,48,210.0,software_testing
+Web Application automation using Watir - Ruby - Cucumber,https://www.udemy.com/course/watir-ruby/,Testing World,4.8,142,658,138,720.0,software_testing
+Mobile App Testing: Key Instruments and Practices,https://www.udemy.com/course/mobile-app-testing-basics/,Arseniy Batyrov,4.2,140,1407,23,120.0,software_testing
+Software Testing Interview Masterclass: Ace the QA interview,https://www.udemy.com/course/software-testing-interview-masterclass-ace-the-qa-interview/,Waqas Mazhar,4.7,138,747,26,90.0,software_testing
+Advanced Automation Testing Using Selenium WebDriver & Java,https://www.udemy.com/course/automation-testing-using-selenium-selenium-training-videos/,QAEversity .,3.4,135,2305,43,450.0,software_testing
+K6- Automate Performance &Load Testing of API& Microservices,https://www.udemy.com/course/k6-automate-performance-load-testing-of-api-microservices/,CtrlAltSkills Care,3.8,135,1073,95,750.0,software_testing
+Testing Framework TestNG from Scratch with Java,https://www.udemy.com/course/learn-testng-testing-framework-from-scratch/,Rahul Singh Rathore,4.2,134,1019,54,540.0,software_testing
+Learn How to Work online on Software Testing websites,https://www.udemy.com/course/learn-software-testing-in-two-weeks-and-start-earning-online/,Mohammed Ameen,3.7,130,9122,27,150.0,software_testing
+Loadrunner 12.50 SAPGUI Protocol scripting,https://www.udemy.com/course/scripting-for-sap-gui-protocol-using-hp-loadrunner-1250/,kumar Gupta,4.9,129,744,70,870.0,software_testing
+Selenium WebDriver Advanced - Industry Standard Framework,https://www.udemy.com/course/selenium-webdriver-advanced-framework/,Lets Kode It,4.8,129,1131,85,690.0,software_testing
+Complete Performance testing package- LoadRunner & Jmeter,https://www.udemy.com/course/loadrunner/,Automation World,4.2,127,788,70,600.0,software_testing
+REST-services testing,https://www.udemy.com/course/rest-services-testing-in-60-minutes/,Alex Zvolinskiy,3.7,127,1735,13,60.0,software_testing
+Automated Test Framework : ServiceNow,https://www.udemy.com/course/automated-test-framework-servicenow/,Sushma Pinapati,4.2,125,793,57,540.0,software_testing
+WebdriverIO Beginner to Advanced E2E Framework (Web+API +DB),https://www.udemy.com/course/webdriverio-e2e-test-framework-from-scratch/,Cope Automation,4.7,125,862,131,1320.0,software_testing
+Angular 2-8 Unit Testing With Jasmine & Karma Step By Step,https://www.udemy.com/course/angular-unit-testing-with-jasmine-karma/,The Startup Central Co.,3.8,125,592,19,180.0,software_testing
+Software Automation Testing with C# & Selenium from Scratch,https://www.udemy.com/course/learn-software-automation-testing-with-c-from-scratch/,Akin Oladeji,4.5,123,5804,23,150.0,software_testing
+REST API Using Java and BDD Cucumber: API Testing,https://www.udemy.com/course/rest-api-using-java-and-bdd-cucumber-api-testing/,Alex Kozlov,2.5,122,3730,40,210.0,software_testing
+Selenium WebDriver Masterclass: Novice to Ninja,https://www.udemy.com/course/selenium-webdriver-masterclass-novice-to-ninja/,EDU CBA,4.6,121,14212,224,1710.0,software_testing
+Web Automation and Testing using Playwright,https://www.udemy.com/course/playwright/,Bushra Alam,4.5,121,541,69,360.0,software_testing
+Selenium IDE - Basic of Test Automation + WebDriver locators,https://www.udemy.com/course/selenium-ide-basic-of-test-automation/,Hubert Arciszewski,4.5,123,413,34,150.0,software_testing
+Apache JMeter - Basics to Intermediate level,https://www.udemy.com/course/performance-testing-using-jmeter-basics-intermediate-level/,kumar Gupta,3.3,120,1338,34,2040.0,software_testing
+Agile Software Testing,https://www.udemy.com/course/agile-software-testing/,Sorin Dumitrascu,4.7,119,8423,44,180.0,software_testing
+Test Management using HP ALM / QC (Quality Center),https://www.udemy.com/course/starthpalm/,Testing World,3.8,117,555,17,60.0,software_testing
+Scrum Testing: Learn Agile and Scrum Testing from A to Z NOW,https://www.udemy.com/course/testing-mastery-in-agile-and-scrum/,Dejan Majkic,4.0,116,18631,26,120.0,software_testing
+WebdriverIO - Complete Beginner Course 2022,https://www.udemy.com/course/webdriverio-complete-beginner-course/,Dilpreet Johal,4.8,115,2529,84,540.0,software_testing
+Hands on Debugging in C and C++,https://www.udemy.com/course/hands-on-debugging/,Mike Shah,4.2,114,711,45,150.0,software_testing
+The React Testing Library Bootcamp - The Developer Guide,https://www.udemy.com/course/the-react-testing-library-bootcamp/,Laith Harb,4.6,113,565,56,300.0,software_testing
+BDD Automation : Behave with Python,https://www.udemy.com/course/bdd-with-behave/,Testing World Infotech,3.5,113,665,41,240.0,software_testing
+Automation Testing Using Junit,https://www.udemy.com/course/automation-testing-using-junit/,Rahul Singh Rathore,3.9,111,1284,31,330.0,software_testing
+"API Automation: REST Assured + Java, TestNG, Lombok, Google",https://www.udemy.com/course/fundamentals-of-rest-assured-api-automation-and-google-api/,Sergei Semenov,3.8,111,932,25,120.0,software_testing
+JobEasy: Git Crash Course for QA Automation Engineers,https://www.udemy.com/course/jobeasy-git-crash-course-for-qa-automation-engineers/,Maksim Gusakov,4.8,111,396,13,60.0,software_testing
+Learn Cypress Framework for End to End UI Testing,https://www.udemy.com/course/learn-cypress-framework-for-end-to-end-ui-testing/,Learning District,4.0,110,419,34,210.0,software_testing
+Unit testing for Go developers,https://www.udemy.com/course/unit-testing-go-developers/,Vinicius Oliveira Silva,4.1,109,596,18,120.0,software_testing
+SOAPUI API Testing | Step by Step for Beginners,https://www.udemy.com/course/soapui-from-scratch-step-by-step/,Raghav Pal,4.1,108,2385,34,390.0,software_testing
+ISTQB mobile Application testing training + 200 Quizes,https://www.udemy.com/course/istqb-mobile-application-testing-with-sample-papers/,After School,4.1,108,16671,66,210.0,software_testing
+Cloud Testing,https://www.udemy.com/course/cloud-testing/,The Art Of Service,3.9,108,450,59,150.0,software_testing
+Test Managment Tool HP ALM - QC (Quality Center) for testers,https://www.udemy.com/course/complete-guide-to-hp-alm-quality-center/,kiran kumar kuchana,4.4,107,389,31,180.0,software_testing
+Learn Software Manual Testing for beginners,https://www.udemy.com/course/software-testing-training-basics-of-software-testing/,Kumar M,3.8,106,1280,8,270.0,software_testing
+Step by Step API Automation with ReadyAPI (SOAPUI PRO)Groovy,https://www.udemy.com/course/readyapi/,Testing World,4.0,104,2249,79,510.0,software_testing
+AToZ:Software Testing and Automation With Real Life Projects,https://www.udemy.com/course/atoz-sta-with-real-life-projects/,Ola Francis,4.3,104,647,73,360.0,software_testing
+Rest Assured API Automation Framework Developmt Zero to hero,https://www.udemy.com/course/rest-assured-api-automation-framework-zero-to-hero/,Nishant Gohel,3.9,104,1889,27,300.0,software_testing
+"Android Testing: Unit Tests, Hilt, ViewModels and more!",https://www.udemy.com/course/android-testing/,Codestars by Rob Percival,3.9,103,518,27,360.0,software_testing
+Advanced framework development with Coded UI Test  2015/2017,https://www.udemy.com/course/framework-development-with-cuit/,Karthik KK,3.3,103,430,59,390.0,software_testing
+Software Testing Must Interview Questions/Answers,https://www.udemy.com/course/software-testing-must-interview-questionsanswers/,Hema Prasad GH,4.2,103,507,15,180.0,software_testing
+Learn HiL Testing from Scratch (Hardware in the Loop),https://www.udemy.com/course/learn-hil-testing-from-scratch-hardware-in-the-loop/,Sid e-learnings,3.0,101,317,12,120.0,software_testing
+Introduction To Software Testing,https://www.udemy.com/course/introduction-to-software-testing/,Allison W-Tyehimba,4.2,100,2697,7,60.0,software_testing
+Kick off your gaming QA career: basics of testing for games,https://www.udemy.com/course/kick-off-your-gaming-qa-career-basics-of-qa-for-games/,Nikolina Finska,4.5,99,349,13,390.0,software_testing
+Advanced Automation framework with Appium C# - 2020 Updated,https://www.udemy.com/course/automation-framework-development-with-appium/,Karthik KK,4.8,98,466,97,570.0,software_testing
+Advanced Selenium testing framework with Java,https://www.udemy.com/course/selenium-webdriver-test-framework-from-scratch/,Dmitry Shyshkin,4.3,97,445,19,210.0,software_testing
+End to End Automation using Python | Web Application & API,https://www.udemy.com/course/learn-gherkin/,Testing World,4.5,97,2998,107,690.0,software_testing
+Learn Software Testing from Scratch,https://www.udemy.com/course/learn-software-testing-from-scratch/,Eduonix Learning Solutions,3.8,96,3265,20,240.0,software_testing
+TestLink - A Test Management Tool,https://www.udemy.com/course/testlink_a_test_management_tool/,Surya Tripathi,3.8,95,2323,16,120.0,software_testing
+Selenium WebDriver: A Step by Step Guide to Test Automation,https://www.udemy.com/course/selenium-webdriver-test-automation/,"AkaSkills! 35,000+ Students",4.2,95,6615,67,600.0,software_testing
+Complete Automation Package -Selenium - Jmeter - SoapUI,https://www.udemy.com/course/complete-automation-package-selenium-jmeter-soapui/,Testing World,4.2,95,894,136,990.0,software_testing
+Automate Application with Specflow and Selenium WebDriver C#,https://www.udemy.com/course/software-testing-end-to-end/,Engineer Spock,4.0,94,773,133,810.0,software_testing
+Python Web Automation testing|| Python Selenium Webdriver,https://www.udemy.com/course/python-web-automation-testing-python-selenium-webdriver/,Vardhhan Bala,3.9,94,1387,74,360.0,software_testing
+Web Services Testing using SoapUI,https://www.udemy.com/course/web-services-testing-using-soapui/,QAEversity .,3.1,94,1771,32,300.0,software_testing
+Java SELENIUM MasterClass CORE JAVA,https://www.udemy.com/course/java-selenium-masterclass-core-java/,Kal John,3.7,93,5757,50,360.0,software_testing
+"Test Management Tools Package[ ALM , TestLink, JIRA ]",https://www.udemy.com/course/testmanagementpack/,Testing World,4.5,93,666,42,180.0,software_testing
+What every java developer must know about software testing,https://www.udemy.com/course/what-a-java-software-developer-must-know-about-testing/,Hamadi Sy,4.2,91,566,54,360.0,software_testing
+Complete Manual Software Testing + Web Testing + App Testing,https://www.udemy.com/course/software-testing-stadsolution/,STAD Solution,4.4,90,341,62,330.0,software_testing
+Cucumber Selenium MasterClass: Design BDD Cucumber Framework,https://www.udemy.com/course/cucumber/,LevelUp360° DevOps | Google Cloud | Terraform | Kubernetes | Ansible,4.0,90,1814,26,420.0,software_testing
+ISTQB Foundation Level 2022 Syllabus Sample Exams,https://www.udemy.com/course/istqb-foundation-level-syllabus-sample-exams/,Tarek Roshdy,4.6,87,840,0,,software_testing
+VSTS (Azure DevOps) : Crash Course for Software Testers,https://www.udemy.com/course/vsts-crash-course/,Testing Solution,3.6,86,1908,13,60.0,software_testing
+Mobile Automation with Xamarin UITest,https://www.udemy.com/course/xamarin-uitest/,Karthik KK,4.1,86,295,44,330.0,software_testing
+Page Object Model pattern for Selenium WebDriver & Java,https://www.udemy.com/course/page-object-model-pattern-for-selenium-webdriver-java/,Peter Jenkins,4.3,86,8161,47,210.0,software_testing
+Mobile Application Automation : Calabash - Ruby - Cucumber,https://www.udemy.com/course/ready-api/,Testing World,4.0,84,730,85,330.0,software_testing
+Solve The Testing Challenges,https://www.udemy.com/course/solve-the-testing-challenges/,Claudiu Draghia,4.3,83,390,8,90.0,software_testing
+"Automation testing with Puppeteer, Playwright and CodeceptJS",https://www.udemy.com/course/puppeteer/,Karthik KK,4.2,82,1177,95,510.0,software_testing
+Groovy Scripting for Developers / Testers,https://www.udemy.com/course/ruby-scripting-for-software-testers/,Testing World,3.6,81,500,18,180.0,software_testing
+Learn Manual Testing:basics for beginners,https://www.udemy.com/course/learn-manual-testing/,Naveen Kumar A,4.1,80,3896,10,60.0,software_testing
+Next Level API Testing: Contract testing for Microservices,https://www.udemy.com/course/introduction-to-contract-testing-with-pact/,Lewis Prescott,3.4,80,388,13,32.0,software_testing
+Protractor Testing (Angularjs Automation) +Jasmine Framework,https://www.udemy.com/course/protractor-testing-framework-learn-from-scratch/,Kiran Singh,3.8,80,2069,29,360.0,software_testing
+WebServices testing (RestAssured + Postman) Complete Guide,https://www.udemy.com/course/webservices-testing-restassured-postman-complete-guide-learnit/,Tigran Ter-Karapetyants,4.5,79,25854,75,540.0,software_testing
+Mobile Automation with Appium 2.0 and WebdriverIO - 2022,https://www.udemy.com/course/appium-webdriverio-mobile-automation/,Dilpreet Johal,4.7,79,507,89,450.0,software_testing
+Rest api testing using Postman tool,https://www.udemy.com/course/api-postman/,Testing World,3.7,78,271,22,90.0,software_testing
+Selenium with Java - A Complete End to End Course.,https://www.udemy.com/course/selenium-with-java-a-complete-end-to-end-course/,Pallavi Sharma,3.5,78,2656,16,1140.0,software_testing
+Appium Mobile Testing MasterClass,https://www.udemy.com/course/appium-mobile-testing-masterclass/,Kal John,4.0,77,850,20,240.0,software_testing
+Selenium: Easy Guide to Automated Functional Testing Dev,https://www.udemy.com/course/automate-tests-using-selenium-webdriver-with-java-examples-course/,Claudiu GURA,4.2,77,3350,48,210.0,software_testing
+Selenium WebDriver The Easy Way With Java!,https://www.udemy.com/course/selenium-webdriver-the-easy-way-with-java/,Anto Aravinth,4.3,75,3926,34,270.0,software_testing
+Master Selenium Automation Testing | Basic to Advanced Level,https://www.udemy.com/course/master-selenium-automation-testing-basic-to-advanced-level/,Saurabh Dhingra,4.3,74,350,85,840.0,software_testing
+Game QA/Testing Short Course,https://www.udemy.com/course/game-qatesting-short-course/,Adil Qayyum,3.6,73,176,8,34.0,software_testing
+Learning JMeter 5.0,https://www.udemy.com/course/learning-jmeter-50/,Packt Publishing,4.0,73,267,31,240.0,software_testing
+Agile Software Testing - Techniques and Tools,https://www.udemy.com/course/agile-software-testing-techniques-and-tools/,Sorin Dumitrascu,4.6,73,8260,20,90.0,software_testing
+The Expert’s Secret to Mobile Application Testing,https://www.udemy.com/course/the-experts-secret-to-mobile-application-testing/,Saif Siddiqui,4.2,73,11314,30,120.0,software_testing
+Mobile App Testing-Android/iOS App Test Automation with Java,https://www.udemy.com/course/mobile-testing-mobile-website-native-mobile-application/,QAEversity .,4.1,72,629,28,330.0,software_testing
+ISTQB Mobile Application Tester Sample Exams,https://www.udemy.com/course/mobile-application-tester/,Tarek Roshdy,4.4,72,482,0,,software_testing
+Testing Automation With Selenium For Beginners,https://www.udemy.com/course/testing-automation-with-selenium-for-beginners/,Hugo Peres,4.2,72,5270,9,60.0,software_testing
+Effective Appium Tutorial with Real Project,https://www.udemy.com/course/effective-appium-tutorial-with-real-project/,Ken Ho,3.7,70,6405,33,180.0,software_testing
+Java Script for Software Testers-for Protractor/TestComplete,https://www.udemy.com/course/java-script-for-software-testers/,Testing World,4.0,68,657,46,180.0,software_testing
+How to earn online by testing software - Novice to Expert,https://www.udemy.com/course/softwaretestingonline/,Anvar Canada,4.6,68,213,40,180.0,software_testing
+Banking Domain And Payments - Bootcamp 2022,https://www.udemy.com/course/bankingfundamentals/,Surya Tripathi,3.2,67,701,37,150.0,software_testing
+Selenium with Python Frameworks : Data Driven & BDD,https://www.udemy.com/course/robot-framework-python/,Testing World,4.0,66,1485,45,300.0,software_testing
+Bug Tracking with Jira: Jira for Software/QA Testers,https://www.udemy.com/course/bug-tracking-with-jira-jira-for-softwareqa-testers/,QAEversity .,3.4,66,399,7,60.0,software_testing
+Learn integration testing with Spring Boot,https://www.udemy.com/course/learn-integration-testing-with-spring-boot/,Yuri Adeodato,4.6,66,10673,28,90.0,software_testing
+Software Testing 101,https://www.udemy.com/course/software-testing-101/,Jeffrey Lee,4.2,66,4607,16,60.0,software_testing
+"Serenity Bdd -  Selenium WebDriver, Cucumber, Jira, Jenkins",https://www.udemy.com/course/serenity-bdd-selenium-webdriver-cucumber-jira-jenkins/,Raghu Alapati,3.8,65,193,25,390.0,software_testing
+Software Testing: Learn with Interview Questions & Answers,https://www.udemy.com/course/software-testing-interview-preparation/,Jimmy Mathew,4.1,64,9735,10,90.0,software_testing
+Webservice / API testing-SoapUI Free Version | By Groovy,https://www.udemy.com/course/soapui-free/,Testing World,3.7,62,1275,69,540.0,software_testing
+"Automation Testing with QTP 11, ALM 11, Selenium 2 with Java",https://www.udemy.com/course/automation-testing-with-qtp-11-alm-11-selenium-with-java/,Preethi Dovala,4.0,62,4562,71,1590.0,software_testing
+React - testing,https://www.udemy.com/course/react-testing-app/,Krystian Czekalski,4.6,61,292,36,300.0,software_testing
+API Testing Package:Postman(Functional)- Jmeter(Performance),https://www.udemy.com/course/api-testing-package/,Testing World,3.6,60,596,37,240.0,software_testing
+Learn by Example : Selenium for Automated Web Testing,https://www.udemy.com/course/learn-by-example-selenium/,Loony Corn,3.9,60,2961,55,360.0,software_testing
+RESTful API web services testing &documentation with Swagger,https://www.udemy.com/course/api-testing-and-documentation-with-swagger-from-scratch/,Dave Partner,3.5,60,538,8,90.0,software_testing
+Advanced Unit Testing C# Code with NUnit and Moq - Part 1,https://www.udemy.com/course/advanced-unit-testing-c-code-part-1/,Mustafa Kök,3.7,60,4750,31,90.0,software_testing
+Learn Test Automation for REST APIs,https://www.udemy.com/course/learn-api-test-automation-using-supertest-framework/,Learning District,3.6,59,304,21,120.0,software_testing
+Introduction to testing automation,https://www.udemy.com/course/introduction-to-test-automation/,Walmyr Filho,4.1,59,173,6,90.0,software_testing
+Python Testing with Green,https://www.udemy.com/course/python-testing-with-green/,Nathan Stocks,4.6,58,434,46,210.0,software_testing
+"Mobile Automation with Robot Framework (RED, Appium, Python)",https://www.udemy.com/course/mobile-automation-with-robot-framework/,Bharat Malik,4.3,57,3053,42,270.0,software_testing
+Automated Testing using Coded UI with Visual Studio 2015,https://www.udemy.com/course/automated-testing-using-coded-ui-with-visual-studio-2015/,Sujal Patel,4.1,56,210,16,60.0,software_testing
+Master Cypress 9 in 15 minutes a day,https://www.udemy.com/course/master-cypress-in-15-minutes-a-day/,Maurice de Beijer,4.8,55,514,57,330.0,software_testing
+Coded UI Testing with Visual Studio 2013,https://www.udemy.com/course/cuit-with-vs2013/,Karthik KK,3.7,54,746,30,360.0,software_testing
+iOS XCUI Test (UITest) automation using Swift & Xcode,https://www.udemy.com/course/ios-native-xcuitest-uitest-automation-using-swift-xcode/,Devasena T,3.6,53,251,22,150.0,software_testing
+Build Automated workflows & connect your apps to each other,https://www.udemy.com/course/zapier-imacros-build-automated-workflows-connect-your-app-automate-web/,ProTech Academy,3.8,53,18677,17,60.0,software_testing
+Build a Forensic Virtual Machine,https://www.udemy.com/course/surviving-digital-forensics-paladin-virtual-machine/,Michael Leclair,4.3,53,534,6,34.0,software_testing
+Appium Master Classes (Selenium 3.0),https://www.udemy.com/course/appium-master-classes/,Srikanth Katakam,3.3,52,308,55,630.0,software_testing
+Software Quality Assurance (SQA) for Beginners from scratch,https://www.udemy.com/course/software-quality-assurance-sqa/,Syed Rahman,4.5,52,116,8,120.0,software_testing
+Must Learn Skills for Testers[SQL+Unix+ShellScript+Jira+ALM],https://www.udemy.com/course/automationpack/,Testing World,3.9,52,368,69,300.0,software_testing
+Become A Part Time Tester From Home With Software Testing,https://www.udemy.com/course/testing-software-from-homepart-time-tester/,QAEversity .,3.8,50,340,8,60.0,software_testing
+End to End Software Testing,https://www.udemy.com/course/key-principles-of-testing/,Alice M,3.6,50,735,36,300.0,software_testing
+Spring Security Master Class,https://www.udemy.com/course/spring_security_master_class/,Mick Knutson,4.6,50,558,132,780.0,software_testing
+Learn SDET Essentials - Full Stack QA Automation,https://www.udemy.com/course/learn-sdet-essentials/,Pavan Kumar,4.1,50,452,45,1170.0,software_testing
+ISTQB Certified Agile Tester,https://www.udemy.com/course/istqb-certified-agile-tester/,Tarek Roshdy,4.6,49,209,42,240.0,software_testing
+Crash Course of JUNIT & TESTNG for Java Automation,https://www.udemy.com/course/appium-with-java/,Testing Solution,4.6,49,1565,12,120.0,software_testing
+Manual Software Testing+JIRA+ Test Rail +AGILE+ Azure DevOps,https://www.udemy.com/course/manual-software-testing-testmanagementtools-agile/,Software Testing Globe,3.5,49,226,58,210.0,software_testing
+Java for Software Testing Professionals - Basics to Advanced,https://www.udemy.com/course/java-for-software-testing-professionals-basics-to-advanced/,Subhash Chandra Basavaraju,3.9,48,195,65,480.0,software_testing
+HP Automation Tools package: ALM(QC) - LoadRunner - UFT(QTP),https://www.udemy.com/course/hp-tools/,Testing World,4.6,48,455,60,360.0,software_testing
+Java For Testers : The Ultimate Java Tutorial For Tester,https://www.udemy.com/course/java-for-testers/,LevelUp360° DevOps | Google Cloud | Terraform | Kubernetes | Ansible,3.7,48,350,42,450.0,software_testing
+Learn Java Unit Test: Mockito & Powermock Complete Tutorial,https://www.udemy.com/course/learn-java-unit-test-mockito-powermock-complete-tutorial/,Alexander Wong,4.6,47,223,52,360.0,software_testing
+Rest Assured REST API Test Automation Framework development,https://www.udemy.com/course/rest-assured-rest-api-test-automation-framework-development/,Subhash Chandra Basavaraju,4.5,47,241,112,870.0,software_testing
+Selenium Starter program,https://www.udemy.com/course/selenium-starter-program/,QAAgility Technologies,4.1,46,2014,38,180.0,software_testing
+Performance Testing using TruWeb,https://www.udemy.com/course/performance-testing-using-truweb/,NaveenKumar Namachivayam,4.6,46,444,69,420.0,software_testing
+ISTQB Mobile Application Testing - Become a Mobile Tester,https://www.udemy.com/course/istqb-mobile-tester/,Tarek Roshdy,4.3,46,368,49,150.0,software_testing
+Advance Jmeter : Performance Testing using Jmeter,https://www.udemy.com/course/advance-jmeter-performance-testing-using-jmeter/,Testing World,3.8,45,450,30,270.0,software_testing
+Rest API Testing using SoapUI | Real time Application,https://www.udemy.com/course/rest-api-testing/,Testing World,3.9,45,676,43,390.0,software_testing
+Pytest : Python 3 Unit Testing Tutorial For Beginners,https://www.udemy.com/course/pytest-python-3-unit-testing-tutorial-for-beginners/,Yogesh Patel,4.3,45,865,11,120.0,software_testing
+Software Testing ABC - Kickstart your software tester career,https://www.udemy.com/course/start-your-software-testing-career-today/,Software Tester,3.8,44,2219,44,120.0,software_testing
+Detox & Cucumber: React Native E2E - Beginner to Advanced,https://www.udemy.com/course/detox-cucumber-e2e/,Jose Buenestado,4.6,44,330,109,870.0,software_testing
+iOS Toolbox: XCUI UI Unit Testing with Xcode 9,https://www.udemy.com/course/ios-toolbox-xcui-ui-unit-testing-with-xcode-9/,Crimson Altima,4.1,44,325,6,420.0,software_testing
+2022 - Mastering Selectors/ Locators for Automation Testing!,https://www.udemy.com/course/mastering-locators/,Gianni Bruno,4.6,44,299,30,210.0,software_testing
+Quality Assurance -  Become a Freelance Software Tester,https://www.udemy.com/course/qa-freelance-software-tester/,Khallai Taylor,4.3,43,157,17,120.0,software_testing
+Jmeter basics for SDET - Bootcamp,https://www.udemy.com/course/jmeterbasics/,N S,4.3,43,1705,11,90.0,software_testing
+Mobile Application Manual Testing - Android Application,https://www.udemy.com/course/mobiletesting/,Testing World,3.0,43,282,19,90.0,software_testing
+Selenium-Python: Code Management(GIT) + Jenkins Integration,https://www.udemy.com/course/selenium-python-jenkins-integration/,Automation World,4.5,43,3237,22,120.0,software_testing
+Test Estimation: Basic & Advanced for IT/Test Professionals,https://www.udemy.com/course/test-estimation/,Rajan Bhatia,4.2,43,273,16,60.0,software_testing
+"Test Management Tool: JIRA, Rally Tools with Agile Concepts",https://www.udemy.com/course/learn-jira-rally-tools-with-agile-testing/,Big Data Engineer,3.9,42,347,30,210.0,software_testing
+Automated visual testing with Selenium and TestNG,https://www.udemy.com/course/automated-visual-testing-with-selenium-and-testng/,Rostyslav Apostol,4.2,41,179,20,150.0,software_testing
+API automation for SDET - Bootcamp (RestAssured/ HttpClient),https://www.udemy.com/course/api-restassured-httpclient/,N S,4.1,40,2644,28,450.0,software_testing
+Master Automation & Web Services Testing using UFT/QTP,https://www.udemy.com/course/master-automation-web-services-testing-using-uftqtp/,QAEversity .,3.5,40,445,9,90.0,software_testing
+Test Case Management (Fundamentals & TestRail Demo),https://www.udemy.com/course/test-case-management/,Hiba EL Darwish,4.5,39,2052,14,60.0,software_testing
+"Master Automation in HP UFT with Web,Siebel & Mainframe apps",https://www.udemy.com/course/master-automation-in-hp-uft-with-websiebel-mainframe-apps/,QAEversity .,2.6,39,500,21,90.0,software_testing
+"Spring Boot Unit Testing with JUnit, Mockito and MockMvc",https://www.udemy.com/course/spring-boot-unit-testing/,Chad Darby,4.8,38,748,136,600.0,software_testing
+Design DataDriven Framework in 100 mins|Selenium|Java|TestNG,https://www.udemy.com/course/datadrivenframework/,Testing World Infotech,3.3,38,2111,13,120.0,software_testing
+Selenium Grid - From Scratch - Deployment & Configuration,https://www.udemy.com/course/selenium-grid-from-scratch-deployment-configuration/,Roei Sabag,4.5,37,215,32,120.0,software_testing
+Learn Pytest in 100 Minutes :Unit Testing Framework 4 Python,https://www.udemy.com/course/big-data-testing/,Testing World Infotech,4.0,37,383,13,90.0,software_testing
+"Testing Basics, Framework and Test Life Cycle",https://www.udemy.com/course/testingframework/,Rajan Bhatia,3.9,37,163,16,60.0,software_testing
+Test Driven Development in ASP.NET Core - The Handbook,https://www.udemy.com/course/test-driven-development-in-net-core-the-handbook/,Trevoir Williams,4.8,36,2614,31,210.0,software_testing
+Selenium with C# - A Complete End to End Course.,https://www.udemy.com/course/selenium-with-csharp-a-complete-end-to-end-course/,Pallavi Sharma,2.7,35,285,14,990.0,software_testing
+[TDD] Learn Test Driven Development with React Native,https://www.udemy.com/course/tdd-learn-test-driven-development-with-react-native/,Teddy Morin,3.7,35,296,31,240.0,software_testing
+How to create your own Instagram bot with Python,https://www.udemy.com/course/how-to-create-your-own-instagram-bot-with-python/,Paschalis Kallimanis,4.7,34,85,9,120.0,software_testing
+Test Automation: great alternative to Selenium,https://www.udemy.com/course/automate-web-application-within-3-hours/,Rostyslav Apostol,4.0,34,268,25,180.0,software_testing
+API Functional Testing using JMeter,https://www.udemy.com/course/api-performance-testing-using-jmeter/,Testing World Infotech,2.9,34,366,18,150.0,software_testing
+"Get Started with CodeceptJS 3, Playwright & WebdriverIO",https://www.udemy.com/course/codeceptjs3-playwright-webdriverio/,Gurjeet Bains,3.7,34,148,23,240.0,software_testing
+How to become successful QA Tester in Computer Networks,https://www.udemy.com/course/how-to-become-successful-qa-tester-in-computer-networks/,Alik Feld,4.1,33,191,26,300.0,software_testing
+Azure DevOps Build Pipelines: Run Windows UI Automation & CI,https://www.udemy.com/course/windows-ui-automation-on-azure-devops-build-pipelines/,Naeem Akram,4.4,33,187,18,90.0,software_testing
+Performance Testing for Beginners,https://www.udemy.com/course/performance-testing-for-beginners/,Devath Tikya Naik,3.7,33,1240,6,60.0,software_testing
+API Testing with Postman,https://www.udemy.com/course/api-testing-with-postman/,Packt Publishing,4.7,32,204,29,120.0,software_testing
+Ready to work on TestLink in 100 mins - Test Management tool,https://www.udemy.com/course/testlink/,Testing World,3.3,32,141,15,60.0,software_testing
+Introduction to METS the Minimal Essential Testing Strategy,https://www.udemy.com/course/metstesting/,Greg Paskal,4.7,31,79,19,38.0,software_testing
+AToZ: Software Testing and Automation In Yoruba Language,https://www.udemy.com/course/ko-sta-ni-ede-yoruba/,Ola Francis,4.6,31,79,71,390.0,software_testing
+Selenium With Java - Best framework for test automation,https://www.udemy.com/course/git-with-selenium-3/,Abode QA,3.8,31,1507,40,270.0,software_testing
+Cucumber and Selenium in Java,https://www.udemy.com/course/cucumber-and-selenium-in-java/,Sagar S,3.3,31,1557,18,120.0,software_testing
+Functional Automation using UFT 12.54(QTP),https://www.udemy.com/course/qtp-uft12/,Testing World,4.2,31,319,26,120.0,software_testing
+Automate anything using Robot Framework + Sikuli,https://www.udemy.com/course/robot-framework-sikuli/,Testing World Infotech,3.2,31,428,20,120.0,software_testing
+Performance testing using LoadRunner12.5,https://www.udemy.com/course/performance-testing-using-loadrunner/,Testing World,3.9,30,421,17,180.0,software_testing
+Fundamental Principles of Test Automation,https://www.udemy.com/course/fundamental-principles-of-test-automation/,Scot Noftz,4.5,30,78,7,44.0,software_testing
+Test automation with Cypress (intermediate),https://www.udemy.com/course/test-automation-with-cypress-intermediate/,Walmyr Filho,4.4,30,173,10,120.0,software_testing
+Java Test Automation Engineer - from Zero to Hero,https://www.udemy.com/course/java-test-automation-engineer-from-zero-to-hero/,Tigran Ter-Karapetyants,4.1,29,12046,95,720.0,software_testing
+CYPRESS | Hands-On Training | Step-by-Step for Beginners,https://www.udemy.com/course/cypress-hands-on-training-step-by-step-for-beginners/,Raghav Pal,4.8,29,131,31,450.0,software_testing
+Mastering JMeter 5.0,https://www.udemy.com/course/mastering-jmeter-50/,Packt Publishing,3.8,29,258,52,330.0,software_testing
+Selenium Java Made Easy for Beginners (Learn in 30 days),https://www.udemy.com/course/selenium-java-made-easy-for-beginners/,Arun Motoori,4.4,28,183,73,4740.0,software_testing
+QMetry Test Management Ver 8,https://www.udemy.com/course/qmetry-test-management-v8/,Ashish Katrekar,4.3,28,138,33,300.0,software_testing
+Make 2D & 3D Graphs in Python with Matplotlib for Beginners!,https://www.udemy.com/course/pythonmatplotlib/,Mammoth Interactive,4.6,28,358,79,1620.0,software_testing
+"Selenium 4.0 LATEST Features, Docker & AWS Integration",https://www.udemy.com/course/selenium-4-tutorial-all-new-features-docker-integration/,Rahul Arora,4.8,28,483,109,690.0,software_testing
+Rest API Automation using RestSharp and .NET,https://www.udemy.com/course/rest-api-automation-using-restsharp-and-dotnet/,Tejsingh Palharya,3.1,27,96,8,90.0,software_testing
+AWS for Software Testers : Learn Cloud Services,https://www.udemy.com/course/aws-for-testers/,Testing World,4.2,27,1042,7,60.0,software_testing
+Introduction to Black Box Software Testing Techniques,https://www.udemy.com/course/introduction-to-black-box-software-testing-techniques/,Bryn Scully,4.2,27,570,10,40.0,software_testing
+CodeceptJS - Acceptance Test Automation Success,https://www.udemy.com/course/practical-e2e-testing-with-codeceptjs/,Paul Beigang,4.0,27,136,8,60.0,software_testing
+API Test Automation | POSTMAN | SOAPUI | KATALON | JMETER,https://www.udemy.com/course/api-test-automation-beginners-hands-on-training/,Raghav Pal,4.5,27,239,65,690.0,software_testing
+Automated Testing Using Selenium WebDriver,https://www.udemy.com/course/automated-testing-using-selenium-webdriver/,Shawn Conlin,3.6,27,182,18,150.0,software_testing
+Software QA/Testing: Learn Testing with Demonstration,https://www.udemy.com/course/software-qa-testing1/,Arshad QA,3.8,26,1356,6,120.0,software_testing
+API Testing BootCamp with SoapUI (OpenSource),https://www.udemy.com/course/api-testing-bootcamp-with-soapui-opensource/,Sanketh Shanbhag,4.2,26,202,20,360.0,software_testing
+Hands-on technical aspects of software testing for beginners,https://www.udemy.com/course/software-testing-from-a-practical-perspective/,Shadi Oweda,3.7,26,238,87,330.0,software_testing
+WebDriverIO v5  JavaScript&Node.js automation for beginners,https://www.udemy.com/course/webdriverio-v5-javascriptnodejs-automation-for-beginners/,Andrii Derevianko,3.8,24,110,72,630.0,software_testing
+Performance Testing from A to Z,https://www.udemy.com/course/performance-testing-from-a-to-z/,Alexandru Stoenescu,3.7,24,119,17,510.0,software_testing
+Robot Framework with Java - Selenium,https://www.udemy.com/course/robot-framework-java/,Automation World,3.9,24,133,37,150.0,software_testing
+Performance Testing Using Loadrunner12.63 & DevWeb2020,https://www.udemy.com/course/performance_testing_using_loadrunner12_63_devweb2020/,SRIDHAR YEHAMANDRAM SATHYANARAYANA,4.1,24,115,52,540.0,software_testing
+How to Become a Software QA Tester. Roman Savin's Course,https://www.udemy.com/course/how-to-become-a-qa-tester-in-30-days/,Roman Savin,4.7,24,66,46,660.0,software_testing
+Learn Element Locators : CSS Selector and Xpath from Scratch,https://www.udemy.com/course/learn-element-locators-css-selector-and-xpath-from-scratch/,Pankaj Gupta,4.1,24,1905,24,210.0,software_testing
+"Selenium WebDriver with CI/CD,AWS,Jenkins,Docker,Grid,GitHub",https://www.udemy.com/course/selenium-webdriver-with-aws-cicd/,Vineet N,4.1,24,251,62,630.0,software_testing
+Manual Testing,https://www.udemy.com/course/manual-testing/,Sulaiman Siddiqi,3.1,24,462,17,90.0,software_testing
+Quality Assurance (QA) Class,https://www.udemy.com/course/quality-assurance/,Manu Mitra,3.3,24,2807,10,600.0,software_testing
+Selenium with Python,https://www.udemy.com/course/selenium-python/,Pallavi Sharma,3.4,24,255,15,1380.0,software_testing
+Rest API Manual Testing - Virtual Classroom,https://www.udemy.com/course/rest-api-manual-testing-virtual-classroom/,Quaatso Learning,4.0,24,84,12,90.0,software_testing
+Advanced Selenium Grid and Cloud | SauceLabs and Jenkins,https://www.udemy.com/course/advanced-selenium-grid-and-cloud/,Dmitry Shyshkin,4.9,24,215,29,210.0,software_testing
+Expert's Guide of API Automation using RestAssured and JAVA,https://www.udemy.com/course/api-testing-restassured/,Automation World,3.8,23,4396,139,1080.0,software_testing
+Learn Complete Testing (Manual+SQL+Unix+Rally+JIRA+AGILE),https://www.udemy.com/course/learn-complete-testing-manualsqlunixrallyjiraagile/,Lead Big Data Engineer,3.9,23,255,53,420.0,software_testing
+Automation Testing CRASH COURSE (HINDI LANGUAGE),https://www.udemy.com/course/ruby-scripting-software-testers/,Testing World,3.3,23,437,17,360.0,software_testing
+GIT and GitHub Basics for Coders,https://www.udemy.com/course/gitbasics/,N S,4.5,23,2581,5,120.0,software_testing
+Tetra's Creative Guide to Software Testing and Exploration,https://www.udemy.com/course/tetras-creative-guide-to-software-testing-and-exploration/,Tetra Quality,4.1,22,2441,30,240.0,software_testing
+Java OOPs Concepts In Selenium Automation Framework,https://www.udemy.com/course/java-oops-concepts-in-selenium-automation-framework/,Bijan Patel,3.7,22,236,21,120.0,software_testing
+Automated API Tests using Artificial Intelligence (AI),https://www.udemy.com/course/automated-api-tests-using-artificial-intelligence-ai/,Sujal Patel,3.1,22,172,21,60.0,software_testing
+Java for Selenium,https://www.udemy.com/course/java-for-selenium/,Agile Testing Alliance Org,4.1,22,91,19,90.0,software_testing
+Selenium Webdriver with Cucumber BDD Automation Framework,https://www.udemy.com/course/selenium-webdriver-with-cucumber-bdd-automation-framework/,Shashank Shetkar,4.3,21,85,40,540.0,software_testing
+Manual Software Testing,https://www.udemy.com/course/software-manual-testing/,Jimmy Mathew,3.5,21,2268,10,90.0,software_testing
+Advanced Selenium 4.0 Framework Development with Junit5,https://www.udemy.com/course/advanced-selenium-framework-development-with-junit5-allure/,Tejasvi Hegde,4.7,21,243,71,510.0,software_testing
+S71200 PLC Modbus TCP Communication & Webserver  Application,https://www.udemy.com/course/s71200-plc-modbus-tcp-communication-webserver-application/,Serkan Büyüktopçu,4.7,21,129,16,120.0,software_testing
+Learn Software Testing Tools and Secure Software Development,https://www.udemy.com/course/learn-software-testing-tools/,Mike S.,3.6,20,1856,38,150.0,software_testing
+Testing REST API with JBehave,https://www.udemy.com/course/testing-rest-api-with-jbehave/,Nabil Jannat,3.8,20,102,18,120.0,software_testing
+Selenium WebDriver 4 - New Features in Detail! - [NEW: 2022],https://www.udemy.com/course/selenium-webdriver-4-new-features-in-detail/,Gianni Bruno,4.8,20,206,84,660.0,software_testing
+SDET: Automation Testing from Scratch - Complete Guide,https://www.udemy.com/course/sdet-learnit/,Andrii Piatakha,4.7,20,2287,225,2790.0,software_testing
+"Automation Framework-Selenium,Java,Cucumber,TestNg & Jenkins",https://www.udemy.com/course/advanced-framework-selenium-java/,Vineet N,4.7,20,137,50,1200.0,software_testing
+Mobile Applications Software Testing,https://www.udemy.com/course/mobile-applications-software-testing/,Michele Spoldi,3.9,19,296,21,90.0,software_testing
+Automated testing using supertest and Jest,https://www.udemy.com/course/automated-testing-using-supertest-and-jest/,Odafe Idogho,3.8,19,108,15,180.0,software_testing
+Build Test Automation Framework using Java from scratch,https://www.udemy.com/course/build-test-automation-framework-using-java-from-scratch/,Adrian Maryniewski,4.0,19,56,28,90.0,software_testing
+Sikuli Automation Using Java and Python + 5 Kickass Projects,https://www.udemy.com/course/sikuli-automation-using-java-and-python-with-5-projects/,Nishit Maru,3.2,18,109,18,330.0,software_testing
+Getting started with Test Automation using Protractor [2020],https://www.udemy.com/course/getting-started-with-test-automation-using-protractor/,Kajetan Raducki,4.1,18,83,30,180.0,software_testing
+ISTQB Foundation Level Software Testing,https://www.udemy.com/course/istqb-foundation-level-software-testing/,Rajesh Reddy,3.6,18,3633,0,,software_testing
+Typing the Test Suite,https://www.udemy.com/course/typing-the-test-suite/,Lachlan Miller,4.3,18,279,53,120.0,software_testing
+"Software Testing - Freelance, Crowd-sourced and Bug Bounties",https://www.udemy.com/course/software-testing-freelance-crowdsourced-and-bug-bounties/,Bryn Scully,4.7,18,75,26,150.0,software_testing
+JIRA for Software Testers-2022 | Must for QA/Tester/Freshers,https://www.udemy.com/course/code-management-in-automation/,Testing World Infotech,4.3,17,1424,46,300.0,software_testing
+100+ Manual Test Cases- Interview Preparation,https://www.udemy.com/course/100-manual-test-cases-interview-preparation/,Rajesh Reddy,3.2,17,279,0,,software_testing
+Docker Fundamentals,https://www.udemy.com/course/docker-fundamentals/,Packt Publishing,3.1,17,45,36,240.0,software_testing
+JMeter : A Performance Testing,https://www.udemy.com/course/jmeter-a-performance-testing/,Geeta Sable,3.4,17,32,16,240.0,software_testing
+JUnit 5. Develop Your Unit Testing Skills Quickly and Easily,https://www.udemy.com/course/junit-java-unit-testing/,Craig Hawkins,4.2,17,64,46,150.0,software_testing
+UFT/QTP for SAP Training,https://www.udemy.com/course/uftqtp-for-sap-training/,Wally Tauriac,3.9,17,114,68,300.0,software_testing
+Robot Framework & SeleniumLibrary - Web automation,https://www.udemy.com/course/robotframework/,Kamal Girdher,4.1,17,284,26,210.0,software_testing
+Web Service REST APIs - The Complete Guide,https://www.udemy.com/course/web-service-rest-apis-the-complete-guide-examturf/,Exam Turf,4.1,16,9688,67,570.0,software_testing
+Sauce Labs Masterclass: Advanced Test Automation,https://www.udemy.com/course/sauce-labs/,Nikolay Advolodkin,4.3,16,185,37,120.0,software_testing
+API: RESTful API testing for complete beginners. POSTMAN,https://www.udemy.com/course/api-restful-api-testing-for-complete-beginners-postman/,IT Room,4.1,16,63,10,37.0,software_testing
+Automated UI Testing in Android,https://www.udemy.com/course/automated-ui-testing-in-android/,Packt Publishing,3.4,15,115,32,180.0,software_testing
+Automation Testing and Framework Designing with TestCafe,https://www.udemy.com/course/automation-testing-and-framework-designing-with-testcafe/,Full Stack QA,3.9,15,81,49,270.0,software_testing
+Astronomical Apex Testing,https://www.udemy.com/course/astronomical-apex-testing/,Paul Battisson,4.5,15,116,28,150.0,software_testing
+Test::Unit  Framework: Unit Testing for Ruby,https://www.udemy.com/course/testunit/,Testing Solution,3.5,15,235,20,120.0,software_testing
+Beginning Selenium WebDriver and Java Training,https://www.udemy.com/course/beginning-webdriver-and-java/,Martin Lienhard,3.2,15,285,16,240.0,software_testing
+Pytest: Unit test automation in Python,https://www.udemy.com/course/pytest-unit-test-automation-in-python/,Programming Made Easy,4.0,15,37,15,60.0,software_testing
+Software Testing Basics,https://www.udemy.com/course/learn-software-testing-quality-assurance-from-scratch-pna/,Parag Achaliya,4.3,15,2764,5,120.0,software_testing
+WebServices testing (RestSharp + Postman) Complete Guide,https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/,Tigran Ter-Karapetyants,4.3,15,8468,73,570.0,software_testing
+Nightwatch Js an end to end testing tool for automating web,https://www.udemy.com/course/nightwatchjs/,QA Guy,4.3,14,43,50,330.0,software_testing
+Appium Mobile Automation - Java - Android & IOS Apps & Cloud,https://www.udemy.com/course/appium-java-android-ios/,Vineet N,3.8,14,50,31,300.0,software_testing
+Web Performance Testing using Jmeter,https://www.udemy.com/course/web-performance-testing-using-jmeter/,QAEversity .,2.9,14,322,12,90.0,software_testing
+Importance of Static Testing in Achieving a High ROI,https://www.udemy.com/course/importance-of-static-testing-in-achieving-a-high-roi/,Ruslan Desyatnikov,4.2,14,1215,11,44.0,software_testing
+Mastering DevOps with AWS and Azure,https://www.udemy.com/course/mastering-devops-with-aws-and-azure/,Harshit Srivastava,3.6,14,4264,30,210.0,software_testing
+Docker for Java Developers,https://www.udemy.com/course/docker-for-java-developers-r/,Packt Publishing,3.7,13,49,19,90.0,software_testing
+SDET/Selenium interview Question & Answers+java Programs,https://www.udemy.com/course/sdetselenium-interview-question-answersjava-programs/,Rajesh Reddy,3.5,13,65,60,390.0,software_testing
+Automation Testing | JMeter : Load API Testing Live Examples,https://www.udemy.com/course/software-testing-jmeter-complete-course-live-examples/,Venkata Adithya Kencham,4.3,13,58,11,120.0,software_testing
+Software Management & Testing,https://www.udemy.com/course/testing-success/,Randall Nagy,3.2,13,1067,57,480.0,software_testing
+Advance Selenium : Git-Assertions-Maven-Reporting-Jenkins,https://www.udemy.com/course/advance-selenium/,Testing World Infotech,3.3,13,73,28,150.0,software_testing
+Robot framework REST API testing with JSON schema,https://www.udemy.com/course/robot-framework-api-testing-with-json-schema-basic-course/,Sven Ernst,4.8,13,41,30,180.0,software_testing
+Learning to test using fitnesse,https://www.udemy.com/course/learning-to-test-using-fitnesse/,krishnan c,2.1,12,35,9,90.0,software_testing
+Performance Testing with Micro Focus Loadrunner 2022,https://www.udemy.com/course/micro-focus-loadrunner-2021/,Neeraj Kumar Singh,4.1,12,46,23,300.0,software_testing
+Unit Testing with Spring Boot + JUnit 5 + Mockito (Tutorial),https://www.udemy.com/course/unit-testing-with-spring-boot-junit-5-mockito-tutorial/,Programming Knowledge,3.9,12,1822,9,120.0,software_testing
+AngularJS Application Testing using Robot Framework,https://www.udemy.com/course/angularjs-robot-framework/,Testing World Infotech,4.0,11,1865,58,300.0,software_testing
+Introduction to Rally Test Management Tool,https://www.udemy.com/course/introduction-to-rally/,Manu Mitra,3.4,11,1301,6,270.0,software_testing
+TestProject-Free Web Android iOS API Automation Testing Tool,https://www.udemy.com/course/testproject-free-web-android-ios-api-automation-testing-tool/,Sayantan Tarafdar,3.9,11,53,16,120.0,software_testing
+Selenium Interview Questions - Crack Selenium Interview,https://www.udemy.com/course/selenium-interview-questions-crack-selenium-interview-b/,Ashutosh Singh,3.2,11,63,0,,software_testing
+Learn Browser Automation From Scratch using Taiko,https://www.udemy.com/course/learn-browser-automation-from-scratch-using-taiko/,Kshitij Nigam,4.1,11,28,11,90.0,software_testing
+"Selenium, Java and Everything in Between",https://www.udemy.com/course/selenium-java-and-everything-in-between/,Roei Sabag,4.4,11,45,111,660.0,software_testing
+Selenium Automation with Java,https://www.udemy.com/course/selenium-automation-with-java/,Vijay K,3.7,11,83,42,1230.0,software_testing
+"API TestAutomation with SoapUI, includes Maven,Git & Jenkins",https://www.udemy.com/course/rest-api-automation-with-soapui-beginners-crash-course/,Kumar S,3.7,11,66,42,270.0,software_testing
+Android Application Automation using Robot Framework,https://www.udemy.com/course/robot-framework-appium/,Testing Solution,3.7,10,46,16,90.0,software_testing
+Selenium WebDriver Advance Test Automation,https://www.udemy.com/course/selenium-webdriver-advance-test-automation/,Ganesh Sahai,3.9,10,176,28,240.0,software_testing
+Visual Regression Testing with Cypress & Percy (basic),https://www.udemy.com/course/visual-regression-testing-with-cypress-percy-basic/,Walmyr Filho,4.3,10,59,8,90.0,software_testing
+Web Automation Using TestCafe in easy steps,https://www.udemy.com/course/web-automation-using-testcafe-in-easy-steps/,QA Guy,4.8,10,18,21,150.0,software_testing
+Visual Regression Testing with Cypress & Percy (basic),https://www.udemy.com/course/visual-regression-testing-with-cypress-percy-basic/,Walmyr Filho,4.3,10,59,8,90.0,software_testing
+Learn Protractor from scratch + Framework - Angular Testing,https://www.udemy.com/course/learn-protractor-from-scratch-framework-angular-testing/,Sayantan Tarafdar,4.1,10,46,38,240.0,software_testing
+"Applitools - A Visual Testing AI Tool - Java,Selenium,Appium",https://www.udemy.com/course/applitools/,Anil Patidar,3.2,10,28,18,90.0,software_testing
+Fundamentals of Quality Assurance Engineer,https://www.udemy.com/course/fundamentals-of-quality-assurance-engineer/,Ryan S.,4.0,10,689,18,90.0,software_testing
+Software Testing: Reporting Bugs Like a Pro Using Bugzilla,https://www.udemy.com/course/software-testing-reporting-bugs-like-a-pro-using-bugzilla/,Dusan Kovacevic,4.7,10,40,12,60.0,software_testing
+Learn Selenium IDE and Webdriver,https://www.udemy.com/course/learn-selenium-ide-and-webdriver/,Sansa Technology,2.8,9,101,7,150.0,software_testing
+"Test Automation  Tools - Selenium, API, Database and Appium",https://www.udemy.com/course/a-z-for-an-automation-engineer-web-services-and-mobile/,Vijay Kannan,4.0,9,81,35,2280.0,software_testing
+Automation Using Ansible on AWS (Dec 2021),https://www.udemy.com/course/automation-using-ansible-on-aws/,Proton Expert Systems & Solutions,4.0,9,77,20,150.0,software_testing
+Zerocode Test Automation Framework - From Zero to Hero,https://www.udemy.com/course/master-zerocode-testing-framework-from-zero-to-hero/,Otar Dvalishvili,4.5,9,1945,36,210.0,software_testing
+Cucumber & Java Framework for test automation with less code,https://www.udemy.com/course/master-cucumber-java-framework-for-test-automation-with-less-code/,BOUALI Ali,3.4,9,74,16,120.0,software_testing
+Mockito: Unit testing in Java,https://www.udemy.com/course/mockito-unit-testing-in-java/,Programming Made Easy,4.4,8,33,13,90.0,software_testing
+Learn Selenium With Enterprise Case Study From Experts,https://www.udemy.com/course/learn-selenium-with-python/,Python Pros,3.8,8,1327,38,240.0,software_testing
+Learn Manual + Unix/ShellScript + MySQL for Complete Testing,https://www.udemy.com/course/learn-basic-concepts-for-big-data-testing/,Big Data Engineer,3.9,8,208,53,450.0,software_testing
+Usability testing: UX review techniques without users,https://www.udemy.com/course/ux-testing-without-users/,Olga Bugaiova,4.4,8,14,7,60.0,software_testing
+NUnit Unit Testing C# Masterclass - Write Unit Test Today!,https://www.udemy.com/course/nunit-unit-testing-c-masterclass-write-unit-test-today/,The Startup Central Co.,3.1,8,43,34,150.0,software_testing
+Automated Accessibility Testing for React Applications,https://www.udemy.com/course/automated-a11y-testing/,Bonnie Schulkin,4.6,8,123,26,90.0,software_testing
+Mobile Application Automation using Python,https://www.udemy.com/course/appium-python/,Testing Solution,3.3,8,40,13,60.0,software_testing
+Hands-on Microservices with Go and MongoDB,https://www.udemy.com/course/hands-on-microservices-with-go-and-mongodb/,Packt Publishing,3.7,7,81,24,150.0,software_testing
+"WebDriverIO v7 JavaScript, POM, GitLab Cloud test execution.",https://www.udemy.com/course/webdriverio-v7-javascript-pom-gitlab-cloud-test-execution/,Andrii Derevianko,2.8,7,20,18,150.0,software_testing
+Micro Focus Application Lifecycle Management (ALM QC),https://www.udemy.com/course/micro-focus-application-lifecycle-management/,Neeraj Kumar Singh,4.1,7,29,12,120.0,software_testing
+Web Performance Test Automation using Sitespeed,https://www.udemy.com/course/automated-browser-performance-testing-using-sitespeed/,CtrlAltSkills Care,4.1,7,79,31,180.0,software_testing
+"A-Z Selenium WebDriver Locators (CSS, Xpath, more)",https://www.udemy.com/course/ultimate-selenium-selectors-for-java/,Yavor Tsanov,4.8,7,31,31,210.0,software_testing
+C# Test Automation Engineer - from Zero to Hero,https://www.udemy.com/course/csharp-test-automation-engineer-from-zero-to-hero/,Tigran Ter-Karapetyants,4.9,7,5957,95,750.0,software_testing
+REST API Testing with Rest Assured - Basics to Framework,https://www.udemy.com/course/rest-assured-with-java-basics-to-framework/,Sashi R,4.6,7,73,56,510.0,software_testing
+Mobile Application Automation using Appium,https://www.udemy.com/course/appium-tool/,Automation World,4.2,6,49,133,750.0,software_testing
+Mobile Application Manual Testing - IOS Application,https://www.udemy.com/course/mobile-testing-ios/,Testing World,2.5,6,29,7,60.0,software_testing
+Selenium Java Multi-Threading Framework Design & Development,https://www.udemy.com/course/selenium-java-multi-threading-framework-design-development/,Subhash Chandra Basavaraju,4.6,6,72,15,210.0,software_testing
+Web automation using Selenium RC from Scratch,https://www.udemy.com/course/web-automation-using-selenium-rc-from-scratch/,Rahul Singh Rathore,3.7,6,146,34,420.0,software_testing
+Selenium Tutorial for Beginners using SpecFlow and C#.NET,https://www.udemy.com/course/selenium-tutorial-for-beginners-using-specflow-and-cnet/,Tejsingh Palharya,3.5,6,29,6,120.0,software_testing
+Testing react applications for professional engineers,https://www.udemy.com/course/testing-react-applications/,Kati Frantz,4.8,6,39,27,150.0,software_testing
+Selenium JAVA Interview Q&A,https://www.udemy.com/course/selenium-java-interview-qa/,Prabhat Saxena,4.3,5,35,15,90.0,software_testing
+"Locators, XPath Expressions, CSS Selectors and Locator Tools",https://www.udemy.com/course/locators-xpath-css-tools/,Arun Motoori,3.6,5,3064,91,1230.0,software_testing
+SDET C#: Test Automation From Scratch,https://www.udemy.com/course/sdet-c-test-automation-from-scratch/,Andrii Piatakha,5.0,5,2013,121,1140.0,software_testing
+Postman for beginners,https://www.udemy.com/course/postman-for-beginners/,Abhishek Kumar,4.3,5,10,11,38.0,software_testing
+"Robot Framework - Codeless UI, API and Mobile Automation",https://www.udemy.com/course/robot-framework-tutorials/,Rahul Arora,4.5,5,106,135,1050.0,software_testing
+Complete TestNG Framework with 100% animated videos,https://www.udemy.com/course/testng-virtual-classroom/,Quaatso Learning,4.7,5,1009,16,120.0,software_testing
+Jenkins CI tool,https://www.udemy.com/course/jenkins-ci-tool/,Chirag Singh,3.9,5,31,19,210.0,software_testing
+Test automation with PyTest,https://www.udemy.com/course/test-automation-with-pytest/,Lucian Musat,3.8,5,26,23,300.0,software_testing
+Gherkin Language - The Master Guide,https://www.udemy.com/course/gherkin-language-the-master-guide/,Tim MacLachlan,4.3,5,20,65,180.0,software_testing
+Postman APIs - The Complete Guide,https://www.udemy.com/course/postman-apis-the-complete-guide-examturf/,Exam Turf,4.2,4,3590,72,510.0,software_testing
+Learn to Create BDD Framework using Cucumber and Java,https://www.udemy.com/course/learn-to-create-bdd-framework-using-cucumber-and-java/,Hemant M Rathod,4.9,4,29,13,450.0,software_testing
+Learn Cypress - End to end testing tool for the modern web,https://www.udemy.com/course/cypress-course/,Mehul Mohan,3.1,4,10,32,150.0,software_testing
+"Learn Mockito & JUnit Unit Testing Fast, Simple & Practical",https://www.udemy.com/course/learn-mockito-junit-unit-testing-fast-simple-practical/,The Startup Central Co.,2.8,4,18,26,180.0,software_testing
+Practical Java Testing with JUnit 5 for complete beginners,https://www.udemy.com/course/practical-java-testing-with-junit-5-for-complete-beginners/,Faisal Memon,4.3,4,44,43,300.0,software_testing
+Selenium Webdriver & Java - Using Real Examples - APR 2022,https://www.udemy.com/course/selenium-webdriver-java-using-real-examples/,Sal Learning,5.0,4,51,171,1230.0,software_testing
+SonarQube - The Complete Guide (2022 Edition),https://www.udemy.com/course/sonarqube-the-complete-guide-2021-edition/,Best Tutorials,3.3,4,63,34,120.0,software_testing
+JavaScript Testing Best Practices,https://www.udemy.com/course/javascript-testing-best-practices/,Packt Publishing,2.7,3,57,25,120.0,software_testing
+MS Playwright from zero to hero,https://www.udemy.com/course/ms-playwright-from-zero-to-hero/,Djelloul Belarbi,2.5,3,14,12,90.0,software_testing
+Smart Contract Test-Driven Development Crash Course,https://www.udemy.com/course/smart-contracts-tdd-crash-course/,Conrad Lelubre,4.7,3,23,10,60.0,software_testing
+Kobiton Appium Certified Developer,https://www.udemy.com/course/kobiton-appium-certified-developer/,Luís Eduardo Pinheiro Pedrosa,4.6,3,12,0,,software_testing
+REST Assured on IntelliJ IDEA - Step by Step for Beginners,https://www.udemy.com/course/rest-assured-on-intellij-idea-step-by-step-for-beginners/,Raghav Pal,4.6,3,32,26,360.0,software_testing
+Software Testing Fundamentals,https://www.udemy.com/course/software-testing-fundamentals-b/,Santhanalakshmi Vinoba,3.8,3,8,18,30.0,software_testing
+"E2E Automation testing using Robot,python,Jenkins and Xray",https://www.udemy.com/course/e2e-automation-testing-using-robotpythonjenkins-and-xray/,Mithun Chakraborty,3.5,3,23,6,33.0,software_testing
+Software Testing Made Easy for Beginners (Project + Jira),https://www.udemy.com/course/software-testing-made-easy/,Arun Motoori,4.3,3,30,242,3900.0,software_testing
+ISTQB Mobile application testing Practice set,https://www.udemy.com/course/istqb-mobile-application-testing-practice-set/,After School,3.0,3,10,0,,software_testing
+JavaScript and Node.js Essentials for Test Automation,https://www.udemy.com/course/javascript-and-nodejs-essentials-for-test-automation/,Cope Automation,4.5,3,26,124,720.0,software_testing
+ISTQB Foundation Level exams Simulator  [2021 updated],https://www.udemy.com/course/istqb-foundation-level-exams-simulator-2021-updated-v/,Qualité Logiciel,5.0,3,9,0,,software_testing
+Software Tester prep to ISTQB CTFL + get exam voucher (HQ),https://www.udemy.com/course/software-tester-prep-to-istqb-ctfl-get-exam-voucher-hq/,MyDistanceTraining MDT,5.0,3,11,26,450.0,software_testing
+"Mastering Xpath, CSS Locator Techniques Selenium Automation",https://www.udemy.com/course/mastering-selenium-xpath-css-locator-techniques-selenium-automation/,Simply Learn Automation,4.4,3,362,5,60.0,software_testing
+Test Driven Development with PHP Unit,https://www.udemy.com/course/test-diven-development-with-php-unit/,John Behrens,4.4,3,12,12,150.0,software_testing
+Selenium WebDriver with Java: Step-By-Step Tutorial: 2-in-1,https://www.udemy.com/course/selenium-webdriver-with-java-step-by-step-tutorial-2-in-1/,Packt Publishing,2.5,2,13,40,240.0,software_testing
+Complete SELENIUM WEBDRIVER - The SELENIUM MOVIE !!,https://www.udemy.com/course/selenium-webdriver-virtual-classroom/,Quaatso Learning,3.6,2,1003,14,240.0,software_testing
+QMetry Automation Studio,https://www.udemy.com/course/qmetry-automation-studio/,Ashish Katrekar,4.8,2,23,14,90.0,software_testing
+Build a Buy Bot in an hour using Selenium IDE,https://www.udemy.com/course/build-a-buy-bot-in-an-hour-using-selenium-ide/,Mitchell Quinn,4.8,2,7,16,60.0,software_testing
+Selenium with Java : Master Automation Testing +Frameworks,https://www.udemy.com/course/selenium-with-java-master-automation-testing-frameworks/,Manik Soni,4.5,2,11,65,450.0,software_testing
+Build a Buy Bot in an hour using Selenium IDE,https://www.udemy.com/course/build-a-buy-bot-in-an-hour-using-selenium-ide/,Mitchell Quinn,4.8,2,7,16,60.0,software_testing
+ISTQB Artificial Intelligence Tester Sample Exams,https://www.udemy.com/course/istqb-ai-tester-sample-exams/,Tarek Roshdy,2.9,2,48,0,,software_testing
+Selenium Testing in Kubernetes,https://www.udemy.com/course/tik-selenium/,Femi Alashi,3.0,1,13,12,60.0,software_testing
+Software Testing And Selenium Masterclass By Spotle,https://www.udemy.com/course/software-testing-and-selenium-masterclass-by-spotle/,Spotle Learn,4.5,1,1,12,90.0,software_testing
+"Learn Functional Testing ,and Jira From Scratch",https://www.udemy.com/course/learn-functional-testing-and-jira-from-scratch/,Shamshad Akhtar,4.0,1,14,6,330.0,software_testing
+S7 PLCSIM Advanced - Basics and Advanced Course,https://www.udemy.com/course/s7-plcsim-advanced-basics-and-advanced-course/,Fry Amd,5.0,1,9,35,420.0,software_testing
+Java Testing: An Easy Guide,https://www.udemy.com/course/java-testing-an-easy-guide/,Pedro Planas,0.0,0,0,18,60.0,software_testing
+Software Testing Life Cycle,https://www.udemy.com/course/software-testing-life-cycle/,Santhanalakshmi Vinoba,0.0,0,0,14,60.0,software_testing
+"Build, test, and deploy a Github user search app w/ ReactJS",https://www.udemy.com/course/build-test-and-deploy-a-github-user-search-app-w-reactjs/,Nikolay Advolodkin,0.0,0,2,41,150.0,software_testing
+ISTQB Agile Technical Tester - Advanced Level,https://www.udemy.com/course/agile-technical-tester/,Tarek Roshdy,0.0,0,39,11,60.0,software_testing
+Interview Preparation in selenium Automation testing profile,https://www.udemy.com/course/interview-preparation-in-selenium-automation-testing-profile/,Anoop Singh,0.0,0,1,0,,software_testing
+Basic  Software Testing Tips and Tricks,https://www.udemy.com/course/basic-software-testing-tips-and-tricks/,Mai Gabr,0.0,0,0,9,40.0,software_testing
+Quality Assurance Mastery :Learn ETL Testing from Scratch,https://www.udemy.com/course/manual-testing-quality-assurance-course-for-beginners/,Asim Noaman Lodhi,0.0,0,2,41,300.0,software_testing
+REST and SOAP API testing with Rest Assured,https://www.udemy.com/course/rest-and-soap-api-testing-with-rest-assured/,Chirag Singh,0.0,0,5,20,210.0,software_testing
+Software Performance Testing With JMeter By Spotle,https://www.udemy.com/course/software-performance-testing-with-jmeter-by-spotle/,Spotle Learn,0.0,0,0,12,90.0,software_testing
+ISTQB Mobile application testing Chapter wise Quizzes,https://www.udemy.com/course/istqb-mobile-application-testing-chapter-wise-quizzes/,After School,0.0,0,3,0,,software_testing
+JUnit 5 - What you NEED to know!,https://www.udemy.com/course/junit-5-what-you-need-to-know/,Syed Asghar,0.0,0,3,31,150.0,software_testing
+Learn PyTest from Scratch in 2022,https://www.udemy.com/course/learn-pytest-from-scratch/,Rohit Dharaviya,0.0,0,11,46,210.0,software_testing
+Get in touch with Tricentis Continuous Testing,https://www.udemy.com/course/get-in-touch-with-tricentis-tosca-testsuite/,Jennifer Fletcher,4.6,4669,41540,25,120.0,software_testing
+Selenium WebDriver with C# for Beginners + Live Testing Site,https://www.udemy.com/course/selenium-qa/,Tod Vachev,4.3,4459,67339,17,90.0,software_testing
+JENKINS Beginner Tutorial - Step by Step,https://www.udemy.com/course/jenkins-beginner-tutorial-step-by-step/,Raghav Pal,4.4,4441,68083,20,210.0,software_testing
+JMeter - Step by Step for Beginners,https://www.udemy.com/course/jmeter-step-by-step-for-beginners/,Raghav Pal,4.5,3396,57397,44,480.0,software_testing
+Cucumber with Selenium Java (Basic),https://www.udemy.com/course/cucumber-with-selenium/,Karthik KK,4.5,3152,50803,27,300.0,software_testing
+Katalon Studio - Step by Step for Beginners,https://www.udemy.com/course/katalon-studio-step-by-step-for-beginners/,Raghav Pal,4.4,2603,37625,46,630.0,software_testing
+Getting Started With Test Automation Using Selenium,https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/,Ganesh Sahai,4.1,2531,40003,14,60.0,software_testing
+Selenium Java Framework from Scratch,https://www.udemy.com/course/selenium-java-framework-from-scratch/,Raghav Pal,4.6,2048,46575,44,660.0,software_testing
+Software Testing Simple (Software Quality Assurance QA),https://www.udemy.com/course/software-testing-simple/,Denis Platonov,4.4,1907,19350,65,180.0,software_testing
+Selenium Webdriver Java : Learn from Scratch (Free course),https://www.udemy.com/course/selenium-webdriver-with-java-learn-from-scratch/,Kiran Singh,4.5,1892,36237,13,150.0,software_testing
+Selenium Webdriver Automate 10 commercial Sites - Basics C1,https://www.udemy.com/course/selenium-webdriver-learn-by-automating-10-commercial-sites/,Yasir Khan,4.3,1800,30097,34,180.0,software_testing
+Selenium Basics - Step by Step for Beginners,https://www.udemy.com/course/selenium-basics-step-by-step-for-beginners/,Raghav Pal,4.4,1557,29960,17,150.0,software_testing
+Master JMeter from Basics (Performance + Load + API Testing),https://www.udemy.com/course/master-jmeter-from-basics-performance-load-api-testing/,Vaibhav Singhal,4.3,1521,34493,87,540.0,software_testing
+Getting Started With Software Testing  Context and Basics,https://www.udemy.com/course/getting-started-with-software-testing-context-and-basics/,Ganesh Sahai,4.6,1359,35104,11,120.0,software_testing
+Everything for Software Tester,https://www.udemy.com/course/everything-for-software-tester/,Testing World,4.0,1194,38037,34,240.0,software_testing
+Automation Testing With HP UFT 14.00 Latest Version,https://www.udemy.com/course/automation-testing-with-hp-uft-1400-latest-version/,Pavan Lalwani,4.6,1116,15192,5,42.0,software_testing
+Foundations of Agile Software Testing,https://www.udemy.com/course/foundations-of-agile-software-testing-j/,Mary Ann Schatteman,4.1,1107,18919,19,90.0,software_testing
+Robot Framework | Step-by-Step for Beginners,https://www.udemy.com/course/robot-framework-step-by-step-for-beginners/,Raghav Pal,4.7,875,23042,16,150.0,software_testing
+API (REST/SOAP) Testing using JMeter with Real Examples,https://www.udemy.com/course/api-rest-soap-testing-using-jmeter-with-real-examples/,Vaibhav Singhal,4.5,779,26933,56,450.0,software_testing
+Software Testing By Innovation Techniques,https://www.udemy.com/course/software-testing-by-innovation-techniques/,Ganesh Sahai,4.3,777,16114,8,60.0,software_testing
+Robot Framework|RIDE & Selenium - Step by Step for Beginners,https://www.udemy.com/course/robot-frameworkride-selenium-step-by-step-for-beginners/,Raghav Pal,4.2,747,22275,12,150.0,software_testing
+Groovy | Step by Step for Beginners,https://www.udemy.com/course/groovy-step-by-step-for-beginners/,Raghav Pal,4.4,745,14384,31,330.0,software_testing
+Performance Testing HP Loadrunner (Updated),https://www.udemy.com/course/performance-testing-hp-loadrunner-updated/,Vaibhav Singhal,4.4,709,19886,46,540.0,software_testing
+Performance Testing using Gatling - Beginner Level,https://www.udemy.com/course/performance-testing-using-gatling/,Anuradha Agarwal,3.9,633,9994,43,180.0,software_testing
+API and Database Testing with Specflow and C#,https://www.udemy.com/course/api_db_testing/,Karthik KK,3.9,632,24059,10,90.0,software_testing
+Selenium Automation Testing for Beginners,https://www.udemy.com/course/selenium-automation-testing-for-beginners/,Saurabh Dhingra,4.4,612,14522,13,120.0,software_testing
+API Testing with Katalon Studio - Step by Step for Beginners,https://www.udemy.com/course/api-testing-with-katalon-studio-step-by-step-for-beginners/,Raghav Pal,4.7,560,28665,32,360.0,software_testing
+Learn TestRail - Test Management Software,https://www.udemy.com/course/learn-testrail-test-management-software/,Manish Verma,4.3,532,8537,12,60.0,software_testing
+Introduction to POSTMAN - A Beginners guide,https://www.udemy.com/course/introduction-to-postman-a-beginners-guide/,Tejasvi Hegde,4.2,532,13273,17,90.0,software_testing
+Build+Deploy+Test with TFS 2015 and Selenium,https://www.udemy.com/course/builddeploytest-with-tfs-2015/,Karthik KK,4.7,468,13677,12,90.0,software_testing
+XPath Tutorial from basic to advance level.,https://www.udemy.com/course/xpath-tutorial-from-basic-to-advance-level/,Sanjay Kumar,4.5,458,7949,13,90.0,software_testing
+Complete Java for Selenium & Appium,https://www.udemy.com/course/complete-java-for-selenium-appium/,Vaibhav Singhal,4.4,446,17398,16,210.0,software_testing
+RESTful API Testing with Postman,https://www.udemy.com/course/restful-api-testing-with-postman/,Zakaria Chowdhury,4.4,409,3887,15,60.0,software_testing
+Automating Web/Mobile/API applications with TestProject,https://www.udemy.com/course/testproject/,Karthik KK,4.1,398,24227,26,270.0,software_testing
+CYPRESS | Step-by-Step for Beginners | Hands-On Training,https://www.udemy.com/course/cypress-step-by-step-for-beginners-hands-on-training/,Raghav Pal,4.5,367,4685,10,120.0,software_testing
+Mocking application with Moq,https://www.udemy.com/course/moq-framework/,Karthik KK,4.5,320,10397,10,60.0,software_testing
+Java Selenium Cucumber Framework Part 1,https://www.udemy.com/course/java-selenium-cucumber-framework-season-1-first-encounter/,Maroš Kutschy,3.9,319,11406,10,60.0,software_testing
+Robot Framework : Code management(GIT) + Jenkins Integration,https://www.udemy.com/course/robot-framework-jenkins-integration/,Testing World Infotech,4.6,314,18004,24,120.0,software_testing
+Selenium for Beginners using Java step by step,https://www.udemy.com/course/selenium-using-java-for-automation-test-development/,Test Automation CO,4.6,305,18195,24,210.0,software_testing
+Test Automation of an E-commerce site with Boozang,https://www.udemy.com/course/code-less-test-automation-with-boozang/,Mats Ljunggren,4.5,293,21220,24,90.0,software_testing
+REST Assured Java Framework | Step by Step for Beginners,https://www.udemy.com/course/rest-assured-java-framework-step-by-step-for-beginners/,Raghav Pal,4.6,278,8922,8,90.0,software_testing
+Basics of BDD for Beginners | Step-by-Step from scratch,https://www.udemy.com/course/basics-of-bdd-for-beginners-step-by-step-from-scratch/,Raghav Pal,4.5,272,5287,8,60.0,software_testing
+Getting Started with BlazeMeter,https://www.udemy.com/course/getting-started-with-blazemeter/,Dave Karow,4.0,234,10655,37,180.0,software_testing
+Your Guide to Start Software Testing Career,https://www.udemy.com/course/your-guide-to-start-software-testing-career/,Asmaa Matar,3.8,233,5237,12,60.0,software_testing
+Performance Testing Basics,https://www.udemy.com/course/performance-testing-basics/,Maharshi Shah,4.5,231,3931,15,90.0,software_testing
+How to automate and develop applications using Autoit,https://www.udemy.com/course/autoitscripting/,Amine M Barki,3.8,226,13874,17,90.0,software_testing
+SDLC and Gating for Testing Professionals,https://www.udemy.com/course/sdlc-and-gating-for-testing-professionals/,Mary Ann Schatteman,4.4,177,5823,24,60.0,software_testing
+Selenium WebDriver with Python Crash Course,https://www.udemy.com/course/selenium-webdriver-with-python-crash-course/,Admas Kinfu,4.4,165,9850,15,120.0,software_testing
+Nightwatch.js Quick Start Guide,https://www.udemy.com/course/nightwatch-quick-start-guide/,Christopher Jackson,4.7,132,3175,12,60.0,software_testing
+Software Testing Tutorial  | JMeter | Automation Testing,https://www.udemy.com/course/performance-testing-tutorial-for-beginners/,Venkata Adithya Kencham,4.3,131,3927,11,36.0,software_testing
+Essentials of Software Testing and Quality Assurance,https://www.udemy.com/course/essentials-of-software-testing-and-quality-assurance/,Archana Rane,3.7,120,2977,9,90.0,software_testing
+Coding and testing an authentication API [NodeJs + Cypress],https://www.udemy.com/course/coding-and-testing-an-authentication-api-nodejs-cypress/,Nikolay Advolodkin,4.6,120,5386,23,120.0,software_testing
+REST API Testing - Crash Course for Beginners,https://www.udemy.com/course/rest-api-testing-crash-course-for-beginners/,ToolsQA .,4.6,117,8403,18,120.0,software_testing
+Creating and working with automation test report using EARS,https://www.udemy.com/course/creating-automation-reports-with-ears/,Karthik KK,4.6,117,10860,32,180.0,software_testing
+Learn PractiTest - QA & Test Case Management Tool,https://www.udemy.com/course/learn-practitest-testcase-management-tool/,Manish Verma,4.4,109,7037,19,150.0,software_testing
+AssertJ: Fluent Assertion In Test Automation,https://www.udemy.com/course/assertj-fluent-assertion-in-test-automation/,Vinoth Selvaraj,4.8,104,4766,23,60.0,software_testing
+Getting Started With TestProject,https://www.udemy.com/course/getting-started-with-testproject/,Dave Westerveld,4.7,102,3686,11,60.0,software_testing
+Fix an average SDET resume to be shortlisted+ Interview tips,https://www.udemy.com/course/sdet-resume-and-interview-tips/,Shaans Training,4.5,86,5563,6,60.0,software_testing
+Git & GitHub for Automation Testing,https://www.udemy.com/course/git-and-github-for-automation-testing/,Manual 2 Automation Testing,4.3,86,4182,34,60.0,software_testing
+Robot Framework Crash Course [2021 Edition],https://www.udemy.com/course/robot-framework-crash-course-2021-edition/,Arvind Mehairjan,4.2,72,2511,11,60.0,software_testing
+Manual Testing Crash Course for Software Testers,https://www.udemy.com/course/manual-software-testing-learning/,Testing World Infotech,4.1,69,1256,5,44.0,software_testing
+Parallel execution in Test Automation Selenium WebDriverIOv5,https://www.udemy.com/course/parallel-execution-test-automation-webdriveriov5/,Andrii Derevianko,4.4,55,7613,16,60.0,software_testing
+SoapUI/ ReadyAPI Certification Program  - FREE Crash Course,https://www.udemy.com/course/api-testing-using-ruby/,Testing Solution,4.7,47,2127,7,60.0,software_testing
+Learn XPath in simple steps,https://www.udemy.com/course/letcode-xpath/,Koushik Chatterjee,4.6,40,2739,15,90.0,software_testing
+Learn Test Automation Fundamentals using Boozang,https://www.udemy.com/course/advanced-test-automation-using-boozang/,Mats Ljunggren,4.4,37,4546,34,120.0,software_testing
+Xpath (xml path) locators in Automation especially Selenium,https://www.udemy.com/course/xpaths-in-selenium-webdriver/,Ajay Kumar Dutta,3.7,36,3519,20,120.0,software_testing
+JMeter 2021 | Short Course | Step by Step for Beginners,https://www.udemy.com/course/jmeter-2021-short-course-step-by-step-for-beginners/,Raghav Pal,4.6,33,1363,13,120.0,software_testing
+Cucumber & Java & Selenium automation framework - JASECU,https://www.udemy.com/course/jasecu-ui-api-automation-framewok/,Maroš Kutschy,4.5,31,3383,19,120.0,software_testing
+XPATH and CSS locators for Selenium,https://www.udemy.com/course/xpath-and-css-locators-for-test-automation-tools/,Ostap Elyashevskyy,4.1,25,1139,46,90.0,software_testing
+Karate Automation Testing | Short Course for Beginners,https://www.udemy.com/course/karate-automation-testing-short-course-for-beginners/,Raghav Pal,4.4,25,1117,9,90.0,software_testing
+Galen UI LAYOUT automation testing with Cucumber & Java,https://www.udemy.com/course/galen-ui-layout-automation-testing/,Maroš Kutschy,4.3,16,4566,19,90.0,software_testing
+Using UFT Developer for Web Apps (Visual Studio and Csharp),https://www.udemy.com/course/using-uft-developer-for-web-apps-visual-studio-and-csharp/,Amir Khan,5.0,12,1187,11,120.0,software_testing
+A Glimpse into the technology agnostic tool - Selenium,https://www.udemy.com/course/seleniumthepowerhouse/,Pallavi Sharma,3.8,12,1518,5,60.0,software_testing
+"Selenium with Headless Chrome Browser, HTMLUnit & PhantomJs",https://www.udemy.com/course/selenium-with-headless-chrome-browser-htmlunit-phantomjs/,Anil Patidar,5.0,11,1811,10,60.0,software_testing
+Using UFT Developer for WPF Desktop Apps (Basic Course),https://www.udemy.com/course/using-uft-developer-for-wpf-desktop-apps-basic-course/,Amir Khan,4.6,10,713,9,90.0,software_testing
+Automation Best Practices with JavaScript,https://www.udemy.com/course/automation-best-practices-with-javascript/,Nikolay Advolodkin,4.1,10,1563,13,42.0,software_testing
+Free Text To Speech Software with Multiple Voices,https://www.udemy.com/course/free-text-to-speech-software-with-multiple-voices/,Digital Nomad Institute,4.6,10,974,5,35.0,software_testing
+ALM Octane - The Basics for Developers,https://www.udemy.com/course/alm-octane-the-basics-for-developers/,Amir Khan,4.2,8,630,20,120.0,software_testing
+Glimpse into BDD using SpecFlow,https://www.udemy.com/course/glimpse-bdd-specflow/,Pallavi Sharma,2.9,3,695,6,120.0,software_testing
+Appium Tutorials - Mobile Test Automation (Android Only),https://www.udemy.com/course/appium-tutorials-mobile-test-automation-android-only/,Rajkumar B,2.6,2,175,12,120.0,software_testing
+akaAT Studio - Step by Step for Beginners,https://www.udemy.com/course/akaat-studio-step-by-step-for-beginners/,akaAT STUDIO,3.9,2,617,14,60.0,software_testing
+Selenium 4.0 Observability,https://www.udemy.com/course/selenium4observability/,Agile Testing Alliance Org,4.7,2,2249,7,90.0,software_testing
+Use xUnit to test project of .NET Core,https://www.udemy.com/course/use-xunit-to-test-project-of-net-core/,Eugene Zhang,1.0,1,450,5,90.0,software_testing
+Quality Assurance Mastery. Manual Software Testing 2022,https://www.udemy.com/course/quality-assurance-mastery-manual-software-testing/,Asim Noaman Lodhi,0.0,0,241,15,120.0,software_testing
+Testes Automáticos + Curso COMPLETO de Teste de Software,https://www.udemy.com/course/teste-software-completo-testes-automaticos/,Gustavo Farias 250.000+ Alunos,4.7,6926,16640,57,300.0,software_testing
+Testes funcionais com Selenium WebDriver: Do básico ao GRID,https://www.udemy.com/course/testes-funcionais-com-selenium-webdriver/,Francisco Wagner Costa Aquino,4.6,3307,10027,114,810.0,software_testing
+"Testes unitários em JAVA: Domine JUnit, Mockito e TDD",https://www.udemy.com/course/testes-unitarios-em-java/,Francisco Wagner Costa Aquino,4.6,3297,10218,46,480.0,software_testing
+PythonによるWebスクレイピング〜入門編〜【業務効率化への第一歩】,https://www.udemy.com/course/python-scraping-beginner/,今西 航平,4.3,2780,16156,22,150.0,software_testing
+Curso Completo de Automação de Testes Para Iniciantes,https://www.udemy.com/course/automatizando-testes-de-software-com-selenium-basico/,Hugo Peres,4.6,2650,16949,27,180.0,software_testing
+Introducción al Testing de Software: para Principiantes!,https://www.udemy.com/course/introduccion-al-testing-de-software-para-principiantes/,Natalia Luna,4.5,2308,5332,32,180.0,software_testing
+Teste de Software: Seja um Expert e Impulsione Sua Carreira,https://www.udemy.com/course/teste-de-software-completo-fundamentos/,Gustavo Farias 250.000+ Alunos,4.7,2268,4839,41,180.0,software_testing
+Aprenda BDD com Cucumber em JAVA,https://www.udemy.com/course/cucumber-java/,Francisco Wagner Costa Aquino,4.6,2176,5957,43,390.0,software_testing
+Automação de Testes com Robot Framework - Básico,https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/,"Mayara ""May"" Fernandes",4.7,1842,4610,54,330.0,software_testing
+Yazılım Test Uzmanlığı Eğitimi: Sıfırdan İleri Seviye,https://www.udemy.com/course/yazilim-test-uzmanligi-egitimi/,Ozan Ilhan,4.6,1766,5435,51,330.0,software_testing
+Processo de Automação de Teste Com Selenium WebDriver e Java,https://www.udemy.com/course/processo-de-automacao-de-testes-funcionais-com-selenium/,Hugo Peres,4.4,1560,9119,25,180.0,software_testing
+"Тестирование ПО для начинающих.  Web, Mobile, API. (QA/QC)",https://www.udemy.com/course/software-manual-testing-web-mobile-api/,Sergei Semenov,4.3,1427,3943,30,450.0,software_testing
+Testes de aplicações modernas com Cypress,https://www.udemy.com/course/testes-cypress/,Francisco Wagner Costa Aquino,4.7,1396,4334,89,840.0,software_testing
+Software Testing de aplicaciones. Postman. Testing de API,https://www.udemy.com/course/software-testing-postman/,Francisco García,4.6,1366,4976,81,690.0,software_testing
+"Automação de Testes com Capybara, Cucumber e Ruby",https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/,Bruno da Silva Batista,4.5,1209,3063,56,600.0,software_testing
+"Integração contínua com testes, utilizando Jenkins",https://www.udemy.com/course/integracao-continua-jenkins/,Francisco Wagner Costa Aquino,4.7,1177,5438,79,600.0,software_testing
+Selenium WebDriver From Foundation to Framework [In Arabic],https://www.udemy.com/course/selenium-webdriver-from-foundation-to-framework-in-arabic/,Moataz Nabil,4.7,1160,7350,287,3210.0,software_testing
+Testes funcionais de aplicações Android com Appium,https://www.udemy.com/course/testes-appium/,Francisco Wagner Costa Aquino,4.6,1140,3612,58,510.0,software_testing
+Как зарабатывать деньги тестируя Программное Обеспечение,https://www.udemy.com/course/crowdtesting/,Anvar Canada,4.8,1091,2356,44,210.0,software_testing
+Testando API Rest com REST-assured,https://www.udemy.com/course/testando-api-rest-com-rest-assured/,Francisco Wagner Costa Aquino,4.7,1080,3327,71,600.0,software_testing
+JMeter - Testes de performance,https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/,Ramon de Pieri Saraiva,4.5,1022,3114,80,390.0,software_testing
+Selenium WebDriver + Java для начинающих,https://www.udemy.com/course/selenium-webdriver-and-java-for-beginners/,IT Web Study,4.7,943,2542,74,900.0,software_testing
+Testes automatizados com Cypress - Básico,https://www.udemy.com/course/testes-automatizados-com-cypress-basico/,Walmyr Filho,4.7,895,2525,58,270.0,software_testing
+Podstawy manualnego testowania oprogramowania,https://www.udemy.com/course/kurs-testowania-oprogramowania/,Tester Oprogramowania,4.5,890,3712,97,450.0,software_testing
+Qa Testing: Guia Basica para QA y Robot Framework,https://www.udemy.com/course/qa-testing-guia-basica-para-qa-y-robot-framework/,Winston Javier Castillo,4.5,875,2903,61,480.0,software_testing
+Guía Completa JUnit y Mockito incluye Spring Boot Test 2022,https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/,Andrés José Guzmán,4.8,833,4467,101,900.0,software_testing
+El curso más completo de testing - Bootcamp de 0 a 100,https://www.udemy.com/course/bootcamptesting/,Atenea Conocimientos,4.5,795,2407,59,810.0,software_testing
+Dominando Postman em 10 passos,https://www.udemy.com/course/dominando-postman-em-10-passos/,Paulo Rogério Martins Marques,4.0,764,1901,12,180.0,software_testing
+Software Testing desde Cero : MasterClass todo en 1 (2022),https://www.udemy.com/course/software-testing-desde-cero-a-expertomasterclass-todo-en-1/,Esteban Balvin,4.7,740,10112,58,450.0,software_testing
+Praktyczny kurs testowania oprogramowania,https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/,Testowanie Oprogramowania,4.5,651,2874,49,540.0,software_testing
+Aprenda testes de integração com Spring Boot,https://www.udemy.com/course/testes-de-integracao-com-spring-boot/,Yuri Adeodato,4.4,627,4264,41,120.0,software_testing
+Programación para Testers: Todo lo que necesitas saber!,https://www.udemy.com/course/programacion-para-testers-todo-lo-que-necesitas-saber/,The Free Range Tester,4.4,585,1246,30,120.0,software_testing
+Postman ile API (Arayüz) Testi ve Test Otomasyonu,https://www.udemy.com/course/postman-ile-api-arayuz-testi-ve-test-otomasyonu/,Ozan Ilhan,4.6,576,2132,34,210.0,software_testing
+TDD com xUnit para C# .NET Core,https://www.udemy.com/course/automatizando-testes-para-sua-aplicacao/,Stephany Henrique de Almeida Batista,4.5,553,1983,52,810.0,software_testing
+はじめてのソフトウェアテスト技法【全てのエンジニアが知るべき最重要テスト技法を、丁寧な解説と演習問題で身につけよう】,https://www.udemy.com/course/software-test-design/,ひらまつ しょうたろう,4.1,539,4045,82,300.0,software_testing
+Selenium Testing Framework con Python ¡De novato a experto!,https://www.udemy.com/course/test-automation-con-python-desde-rookie-hasta-experto/,Mervin Alberto Diaz Lugo,3.9,530,8609,70,1650.0,software_testing
+Тестирование ПО для начинающих,https://www.udemy.com/course/software-qa-basics/,Maria Brodskaya,4.6,515,1502,40,540.0,software_testing
+Curso de QA Automation con Serenity - De novato a experto!,https://www.udemy.com/course/curso-de-qa-automation-con-serenity-de-novato-a-experto/,Atenea Conocimientos,4.4,498,1574,50,810.0,software_testing
+Automação de Testes Com Selenium WebDriver e C# - COMPLETO,https://www.udemy.com/course/automatizando-testes-de-software-com-selenium-webdriver-e-c-sharp/,Hugo Peres,4.4,457,1852,87,1200.0,software_testing
+Тестирование ПО для начинающих,https://www.udemy.com/course/testing-for-beginners/,IT Web Study,4.6,453,1180,52,360.0,software_testing
+Selenium con Java y Cucumber: El curso definitivo.,https://www.udemy.com/course/selenium-con-java-y-cucumber-el-curso-definitivo/,The Free Range Tester,4.3,450,1700,57,300.0,software_testing
+Todo sobre Testing y Debugging de Software Desde 0 a Experto,https://www.udemy.com/course/testing-debugging-software-completo-walter-coto-alvaro-chirou/,Alvaro Chirou • 430.000+ Students Worldwide,4.6,445,22355,239,1440.0,software_testing
+"Тестирование, Автоматизация REST API: Postman + GIT, JENKINS",https://www.udemy.com/course/postman-api-automation/,Sergei Semenov,3.6,445,1506,17,210.0,software_testing
+Стань QA специалистом с нуля,https://www.udemy.com/course/qa-specialist-from-scratch/,Evgeny Novikov,4.5,434,1564,20,240.0,software_testing
+Automação de Testes com Robot Framework - Avançado,https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/,"Mayara ""May"" Fernandes",4.7,420,2463,42,420.0,software_testing
+TESTES DE SOFTWARE NA PRÁTICA E AUTOMAÇÃO - CURSO COMPLETO,https://www.udemy.com/course/tudo-sobre-testes-de-software-na-pratica-curso-completo/,Rodrigo Gonçalves Santana,3.7,413,1820,62,630.0,software_testing
+Diseño de pruebas de software (software testing),https://www.udemy.com/course/diseno-de-pruebas-de-software/,Christian Ramirez,4.1,403,1795,23,420.0,software_testing
+Postman - testowanie REST API,https://www.udemy.com/course/kurs-postman/,Tester Oprogramowania,4.6,400,1317,45,240.0,software_testing
+ISTQB 2018 Temel Seviye (CTFL) Sertifika Sınavına Hazırlık,https://www.udemy.com/course/istqb-temel-seviye-ctfl-sertifika-snavna-hazrlk/,Dr. Ali GÜRBÜZ,4.3,394,1311,28,390.0,software_testing
+Apache WebServer: do Básico ao Avançado,https://www.udemy.com/course/apache-webserver-do-basico-ao-avancado/,Glaucio Guerra,3.8,383,1445,40,210.0,software_testing
+2時間で学ぶ！ソフトウェアテスト設計講座（機能テスト編）～効率的に”もれ”の無いテスト設計手法を習得～,https://www.udemy.com/course/shift-designfunctionaltest/,ヒンシツ大学 株式会社SHIFT,4.1,350,2029,36,120.0,software_testing
+Testes automatizados de Api com Httparty + Rspec,https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/,Bruno da Silva Batista,4.6,347,935,37,270.0,software_testing
+Aprenda Testes Unitários com Javascript,https://www.udemy.com/course/aprenda-testes-unitarios-com-jasmine-javascript/,Marcio Casale de Souza,4.6,344,1486,143,570.0,software_testing
+Test unitarios con JUnit. Curso de introducción,https://www.udemy.com/course/test-unitarios-con-junit-curso-de-introduccion/,Chris M.,4.2,343,1233,33,270.0,software_testing
+Selenium WebDriver + BDD + Python 3 - Superando os problemas,https://www.udemy.com/course/selenium-webdriver-basico-com-behave-e-python-3/,Reinaldo Mateus Rossetti Junior,4.4,308,1362,141,750.0,software_testing
+Wstęp do testowania oprogramowania.,https://www.udemy.com/course/wstep-do-testowania-oprogramowania/,Mateusz Kruszyk,3.6,281,1001,45,120.0,software_testing
+Test unitario con junit y mockito en Spring Java 8 - 2022,https://www.udemy.com/course/test-unitario-con-junit-y-mockito-en-spring-boot-java-8/,Ing. Cristian Rojas,4.6,277,1000,58,300.0,software_testing
+Kurs Selenium Python od podstaw,https://www.udemy.com/course/kurs-selenium-python/,Tester Oprogramowania,4.6,274,1263,157,720.0,software_testing
+JUnit para Testadores,https://www.udemy.com/course/junit-para-testadores/,Elias Nogueira,4.7,269,762,88,240.0,software_testing
+Automatizar Pruebas con TestProject - QA Automation Mobile,https://www.udemy.com/course/automation-testing-mobile/,Matías Panusopulos • +25.000 estudiantes,4.0,267,20687,13,60.0,software_testing
+Kurs Selenium Java od podstaw,https://www.udemy.com/course/kurs-selenium-java/,Tester Oprogramowania,4.5,265,1183,372,2460.0,software_testing
+Testes unitários em Java com JUnit e Mockito,https://www.udemy.com/course/testes-unitarios-java/,Leonardo Baraúna,4.5,262,1363,27,270.0,software_testing
+Aprende a hacer pruebas de Performance con JMETER,https://www.udemy.com/course/aprende-a-hacer-pruebas-de-performance-con-jmeter/,Henry Joseph Calani ambrocio,3.5,246,786,59,390.0,software_testing
+2時間で学ぶ！ソフトウェアテスト設計講座（シナリオテスト編）～業務視点でのテスト設計手法を習得～,https://www.udemy.com/course/shift-designscenariotest/,ヒンシツ大学 株式会社SHIFT,3.9,230,1258,36,60.0,software_testing
+"Selenium Testing Framework con JAVA, Maven y Cucumber",https://www.udemy.com/course/selenium-testing-framework-con-java-maven-y-cucumber/,Mervin Alberto Diaz Lugo,3.5,225,3822,42,690.0,software_testing
+Web网站安全测试（Penetration Testing）- 从初学到精通,https://www.udemy.com/course/security-testing-china/,Yan Gao,4.6,224,1538,99,660.0,software_testing
+Performance Testing Using Apache JMeter (بالعربية),https://www.udemy.com/course/performance-testing-using-apache-jmeter-arabic/,Ahmed Abdelnabi,4.9,222,2262,32,420.0,software_testing
+Jak zostać testerem oprogramowania.,https://www.udemy.com/course/zawod-tester-jak-zaczac/,Norbert Jankowski,3.2,218,1435,37,210.0,software_testing
+Selenium WebDriver自动化测试Java版 +面试问题（中文讲解）,https://www.udemy.com/course/selenium-webdriver-with-java-testng-and-log4j2/,Yan Gao,4.7,203,983,247,2250.0,software_testing
+"Автоматизация API: REST Assured + Java, проект с Google API",https://www.udemy.com/course/rest-assured-google-api-automation/,Sergei Semenov,3.7,201,788,25,150.0,software_testing
+Testare manuala si automata (Curs QA),https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/,Radu Popescu,4.8,201,651,15,570.0,software_testing
+Тестирование ПО 2021. С нуля до Junior QA,https://www.udemy.com/course/junior-qa/,Alex Marshal,4.7,182,1022,11,180.0,software_testing
+QA Automation Testing con Python y Selenium (ESPAÑOL),https://www.udemy.com/course/aprende-automatizacion-con-python-y-selenium-web-driver/,Johan Javier Pizarro Martinez,4.3,181,564,34,480.0,software_testing
+Softwarequalität durch Unit Testing,https://www.udemy.com/course/clean-code-unit-testing-java-junit/,Thorsten Diekhof,4.1,173,1458,50,240.0,software_testing
+Testes unitários em C# com NUnit e Moq,https://www.udemy.com/course/testes-unitarios-em-csharp-com-nunit-e-moq/,Leonardo Baraúna,4.3,162,798,25,210.0,software_testing
+Kurs: Testautomatisierung mit Selenium für Java + Python,https://www.udemy.com/course/kurs-testautomatisierung-mit-selenium-4-java-python/,Dieter Schanz,4.4,161,1057,268,2160.0,software_testing
+Cypress: Automatización de pruebas de punta a punta,https://www.udemy.com/course/cypress-automatizacion-de-pruebas-de-punta-a-punta/,Atenea Conocimientos,4.7,159,615,76,720.0,software_testing
+Selenium IDE - Podstawy Automatyzacji +  lokatory WebDriver,https://www.udemy.com/course/selenium-ide-podstawy/,Hubert Arciszewski,4.1,160,1195,32,150.0,software_testing
+Pruebas automáticas en Java,https://www.udemy.com/course/curso-especialista-java-pruebas-automaticas-en-java/,Curso Especialista Universitario Desarrollo avanzado de aplicaciones Java,4.2,157,772,17,150.0,software_testing
+Selenium WebDriver - Do zero a criação de projetos + Projeto,https://www.udemy.com/course/selenium-webdriver-do-zero-a-criacao-de-projetos-projeto/,Erick Valentin,5.0,154,512,69,1050.0,software_testing
+Zostań QA lub testerem oprogramowania od zera,https://www.udemy.com/course/zostan-qa-od-zera/,Evgeny Novikov,4.3,151,936,18,210.0,software_testing
+Curso de Testes para Ruby on Rails com RSpec,https://www.udemy.com/course/curso-de-testes-ruby-com-rspec/,Leonardo Scorza,4.6,151,6570,29,150.0,software_testing
+Testes Exploratórios,https://www.udemy.com/course/testes-exploratorios/,Francisco Wagner Costa Aquino,4.8,146,581,59,690.0,software_testing
+"TDD em C# com xUnit, NUnit e Moq. Testes e Frameworks .NET.",https://www.udemy.com/course/c-testes-e-frameworks/,Luis Marques,4.5,146,532,29,360.0,software_testing
+Инструменты для автоматизации тестирования с Selenium + Java,https://www.udemy.com/course/selenium-java-frameworks/,IT Web Study,4.0,141,640,37,300.0,software_testing
+Teste Unitário - Básico para Desenvolvedores C#,https://www.udemy.com/course/teste-unitario-dotnet/,Vinícius de Andrade ツ,4.7,140,418,30,120.0,software_testing
+【テスターからQAエンジニアへ】キャリアアップのためのテストスキル,https://www.udemy.com/course/qa-engineer/,Harada Haruna,4.1,138,559,19,90.0,software_testing
+Cypress на реальном проекте для начинающих QA Automation,https://www.udemy.com/course/cypress-qa-automation/,Sergei Semenov,4.0,137,403,27,330.0,software_testing
+Тестирование API 2021. Postman — полный курс автоматизации,https://www.udemy.com/course/api-2020-postman/,Alex Marshal,4.6,136,544,14,180.0,software_testing
+A'dan Z'ye Yazılım Test Uzmanlığı,https://www.udemy.com/course/adanzye-yazlm-test-uzman/,Dr. Ali GÜRBÜZ,4.6,134,676,24,450.0,software_testing
+Initiation au test logiciel ou application mobile,https://www.udemy.com/course/initiation-au-test-logiciel/,Antoine Cavaler,4.1,133,499,32,150.0,software_testing
+Estratégias para gerenciar massa de dados em testes + DbUnit,https://www.udemy.com/course/massa-de-dados-dbunit/,Francisco Wagner Costa Aquino,5.0,133,704,46,450.0,software_testing
+STM32F4 DISCOVERY KARTI İLE CAN BUS KURSU,https://www.udemy.com/course/stm32f4-discovery-karti-ile-can-bus-dersleri/,Muhammed Fatih KÖSEOĞLU,4.3,129,559,38,570.0,software_testing
+Test Driven Development (TDD) en React JS,https://www.udemy.com/course/tdd-react-js/,Juan de Developero,4.6,123,871,142,900.0,software_testing
+Corso base di Git: impara a tenere traccia del tuo codice,https://www.udemy.com/course/corso-base-di-git-impara-a-tenere-traccia-del-tuo-codice/,Lucio Ticali,4.0,123,378,19,150.0,software_testing
+Postman od podstaw - testowanie REST API,https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/,Testowanie Oprogramowania,4.5,120,875,38,330.0,software_testing
+Software Tester ABC TEIL 1 - Software Testing Kurse Bündel,https://www.udemy.com/course/deine-ausbildung-zum-software-tester/,Qcademy Software-Testing,3.1,119,553,59,240.0,software_testing
+Создание фреймворка и автоматизация тестов на Java+Selenium,https://www.udemy.com/course/buildyourtestautomationframework/,Evgeny Novikov,4.7,114,433,33,420.0,software_testing
+"Java, JUnit ve Mockito ile Unit Test Yazma Eğitimi",https://www.udemy.com/course/java-unit-test-egitimi/,Mucahit Kurt,4.7,108,729,81,540.0,software_testing
+Testes Automatizados - Curso completo com Selenium e Java,https://www.udemy.com/course/testes-automatizados-curso-completo-com-selenium-e-java/,Weberson Rodrigues,4.6,107,464,25,450.0,software_testing
+Selenium и Selenide для начинающих Automation QA + 2 проекта,https://www.udemy.com/course/selenium-selenide-test-automation-engineer/,Sergei Semenov,4.2,106,1378,54,450.0,software_testing
+"Тестирование ПО для начинающих. SQL, Postman, Jira, Git.",https://www.udemy.com/course/qa_for_beginners/,Дмитрий Инешин,3.9,103,290,13,150.0,software_testing
+Testes end-to-end com Cypress,https://www.udemy.com/course/testes-end-to-end-com-cypress/,Walmyr Filho,4.7,103,463,39,210.0,software_testing
+Boas práticas em automação de testes com Cypress,https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/,Walmyr Filho,4.9,100,555,34,150.0,software_testing
+Software Testing,https://www.udemy.com/course/software-testen/,Peter Klausmann,3.9,100,417,30,60.0,software_testing
+Automação de Testes com Sikuli,https://www.udemy.com/course/aumentando-sua-produtividade-com-sikuli/,Ramon de Pieri Saraiva,4.8,99,1231,37,120.0,software_testing
+Testreporting - Know-How & Vorlagen für das Testmanagement,https://www.udemy.com/course/testreporting/,Nicolas Scheel,3.9,99,453,29,90.0,software_testing
+Automatisation des tests avec Robot Framework A-Z™,https://www.udemy.com/course/automatisation-des-tests-avec-robot-framework-a-ztm/,Yasser KHALAFAOUI,4.2,97,516,62,240.0,software_testing
+JMETER - Teste de Performance de aplicações Web,https://www.udemy.com/course/jmeter-teste-de-performance-de-aplicacoes-web/,Leonardo Baraúna,4.4,97,377,26,120.0,software_testing
+Python - Testowanie kodu,https://www.udemy.com/course/testy-automatyczne-kodu-python/,Videopoint Grupa Helion,4.6,94,568,22,180.0,software_testing
+Real time Automation+Manual Interview Questions with Answers,https://www.udemy.com/course/testing-interview-questions-with-answers/,Jaikishan Mohanty,4.2,93,24804,46,480.0,software_testing
+Angular: Pruebas unitarias con Jest,https://www.udemy.com/course/angular-jest/,Efisio Pitzalis Morillas,4.5,88,433,47,360.0,software_testing
+Testando Javascript e React com Jest e Enzyme,https://www.udemy.com/course/javascript-react-jest-enzyme/,Felipe Lima,3.8,85,554,44,570.0,software_testing
+Mockito,https://www.udemy.com/course/mockito-testing/,Christian Oette,4.2,81,403,38,180.0,software_testing
+Aprenda testes integrados com Selenium em C#,https://www.udemy.com/course/aprenda-testes-integrados-com-selenium-em-csharp/,Fernando Jose,4.1,78,697,17,210.0,software_testing
+Automação de Testes com Selenium WebDriver e Java,https://www.udemy.com/course/automacao-de-testes-com-selenium-webdriver-e-java/,Qazando Cursos,4.6,78,275,30,360.0,software_testing
+Kotlin と JUnit で学ぶ、はじめてのユニットテスト【丁寧な解説＋演習問題で プログラミング 中級者になろう】,https://www.udemy.com/course/unittest-kotlin-junit/,ひらまつ しょうたろう,4.4,78,896,50,210.0,software_testing
+"Curso Creación Framework con Selenium, Spring y Cucumber",https://www.udemy.com/course/curso-creacion-framework-con-selenium-spring-y-cucumber/,Julian Mesa,4.1,77,2279,36,270.0,software_testing
+Le Bootcamp complet de test logiciel 2021 /2022,https://www.udemy.com/course/le-bootcamp-complet-de-test-logiciel-2021-2022/,Qualité Logiciel,4.4,74,304,73,600.0,software_testing
+Dominando o TestComplete,https://www.udemy.com/course/dominando-o-testcomplete/,Alan Voigt,4.5,71,158,28,150.0,software_testing
+"Curso Testing para Android con JUnit, Mockito, Espresso, TDD",https://www.udemy.com/course/curso-testing-para-android-con-junit-mockito-espresso-tdd/,Alain Nicolás Tello,4.5,69,492,95,540.0,software_testing
+"QA Testing: Guia Media Pruebas, API y Automatizacion",https://www.udemy.com/course/qa-testing-guia-media-pruebas-api-y-automatizacion/,Winston Javier Castillo,4.4,68,276,77,570.0,software_testing
+Wprowadzenie do testowania dla programistów .net,https://www.udemy.com/course/wprowadzenie-do-testowania-dla-programistow-net/,Jarosław Stadnicki,4.1,68,2486,93,270.0,software_testing
+Automatyzacja testów: Selenium WebDriver Java od podstaw,https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/,Przemysław Nowakowski,4.9,65,339,37,270.0,software_testing
+Curso completo de automatización con UFT One v15,https://www.udemy.com/course/curso-completo-uft-one/,Daniel Lavara,4.5,64,541,75,1110.0,software_testing
+Automação de testes web com Cypress,https://www.udemy.com/course/automacao-de-testes-web-com-cypress/,Qazando Cursos,4.5,64,220,29,390.0,software_testing
+Noções Básicas de Automação de Testes para Mobile,https://www.udemy.com/course/automacao-de-testes-para-mobile/,Ariane madureira,3.6,62,241,7,36.0,software_testing
+C# .NET: Testy jednostkowe i integracyjne + praktyka,https://www.udemy.com/course/c-net-testy-jednostkowe-i-integracyjne/,Jakub Kozera,4.9,61,520,51,390.0,software_testing
+Performance testing - Introducción a K6,https://www.udemy.com/course/performance-testing-introduccion-k6/,Juan José Orjuela Castillo,4.2,61,2224,10,90.0,software_testing
+Selenium IDE Tutorial Deutsch - Software Testing,https://www.udemy.com/course/selenium-ide-tutorial-deutsch/,Qcademy Software-Testing,3.5,58,284,27,60.0,software_testing
+Automação de Testes Mobile com CodeceptJS e Appium,https://www.udemy.com/course/automacao-de-testes-mobile-com-codeceptjs-e-appium/,Qazando Cursos,4.4,57,202,44,360.0,software_testing
+Aprende Automatización Web con Selenium [2022],https://www.udemy.com/course/aprende-automatizacion-web-con-selenium/,Kevin Meneses González,3.0,57,185,43,180.0,software_testing
+Türkçe ISTQB Temel Seviye Sertifika Sınavı Hazırlık Soruları,https://www.udemy.com/course/turkce-istqb-temel-seviye-sertifika-snav-hazrlk-sorular/,Dr. Ali GÜRBÜZ,3.6,57,324,0,,software_testing
+Тестируем программы при помощи JMeter,https://www.udemy.com/course/jmeter-performance/,Lev Gorfel,4.6,56,227,26,120.0,software_testing
+La guía completa: API Testing con Python,https://www.udemy.com/course/la-guia-completa-test-de-api-rest-con-python/,Mervin Alberto Diaz Lugo,4.4,54,3979,44,870.0,software_testing
+Автоматизация тестирования Java + Selenium + TestNG,https://www.udemy.com/course/java-selenium-testng/,Alex Marshal,4.7,54,203,39,480.0,software_testing
+Curso Rápido de Automação de Testes Mobile com Appium + Java,https://www.udemy.com/course/automacao-de-testes-mobile-com-appium-java/,Qazando Cursos,3.7,52,180,19,180.0,software_testing
+C# ile Unit Test Yazma (Test Driven Development),https://www.udemy.com/course/csharp-ile-unit-test-yazma-test-driven-development/,Salih DEMİROĞ,3.9,51,184,35,150.0,software_testing
+Arquitetura de testes com Protractor,https://www.udemy.com/course/arquitetura-de-testes-com-protractor/,Walmyr Filho,4.7,51,506,16,240.0,software_testing
+Selenium Webdriver y Python: Automatizacíon de pruebas 2020,https://www.udemy.com/course/selenium-webdriver-y-python-automatizacion-de-pruebas-2020/,José Manuel De Aquino,4.4,51,465,53,390.0,software_testing
+Otomatik Web Testi (Tester)- Selenium (Yeni başlayanlar A-Z),https://www.udemy.com/course/otomatik-web-testi-tester-selenium-yeni-baslayanlar/,Gyuner Hayridin,3.4,50,306,57,270.0,software_testing
+Azure DevOps Server / TFS [In Arabic],https://www.udemy.com/course/tfs-azure-devops-server/,Mohammed El Nenaey,4.8,50,232,34,420.0,software_testing
+Selenium IDE - Kompletny kurs od podstaw [2021],https://www.udemy.com/course/selenium-ide-kompletny-kurs-od-podstaw/,Rode Learning,4.6,46,223,24,210.0,software_testing
+Automatyzacja testów: WebdriverIO + Typescript - Jenkins,https://www.udemy.com/course/testowanie-automatyczne-webdriverio/,Testowanie Oprogramowania,4.8,45,429,44,600.0,software_testing
+Programación en Java para Selenium Webdriver,https://www.udemy.com/course/programacion-desde-cero-para-testers/,Abel Quintana,4.4,45,123,23,270.0,software_testing
+2時間で学ぶ！非機能テスト入門講座～性能やユーザビリティなどシステムの非機能を考える～,https://www.udemy.com/course/shift-nonfunctionaltest/,ヒンシツ大学 株式会社SHIFT,3.9,44,445,53,90.0,software_testing
+introduction to software testing بالعربي,https://www.udemy.com/course/introduction-to-software-testing-f/,Ahmed Hassan Ahmed,3.7,43,72,24,60.0,software_testing
+Testes de Contrato em JAVA com PACT,https://www.udemy.com/course/testes-de-contrato-em-java-com-pact/,Francisco Wagner Costa Aquino,4.9,42,370,48,570.0,software_testing
+Çocuklar İçin mBlock İle Arduino,https://www.udemy.com/course/gelecegi-kodlayanlar-mblock-ile-arduino-1/,Volkan Polat,5.0,42,699,21,90.0,software_testing
+Curso Rápido para Automação de Testes com Appium + Ruby,https://www.udemy.com/course/curso-rapido-para-automacao-de-testes-com-appium-ruby/,Qazando Cursos,3.9,42,128,17,240.0,software_testing
+Teste de Performance com Jmeter,https://www.udemy.com/course/jmeter52/,Flavio da Silveira Pepino,4.7,42,229,21,390.0,software_testing
+Automatyzacja testów: API REST Assured w Java od podstaw,https://www.udemy.com/course/automatyzacja-api-rest-assured-java-maven-junit-testng/,Przemysław Nowakowski,4.8,42,154,20,240.0,software_testing
+Introducción al testing de software,https://www.udemy.com/course/introduccion-al-testing-de-software/,Nadia Cavalleri,4.6,42,138,35,300.0,software_testing
+基於Selenium WebDriver 的Web 應用自動化測試,https://www.udemy.com/course/selenium-webdriver-web/,Kenneth Hu,3.9,41,207,25,120.0,software_testing
+"Jobit / Джобайти. Mини курс ""Manual QA: Младший тестировщик""",https://www.udemy.com/course/jobit-manualqa/,Jobit Джoбайти,4.4,41,458,10,120.0,software_testing
+Practical Software Testing [In Arabic],https://www.udemy.com/course/practical-software-testing-istqb-basics-in-arabic/,Mohammed El Nenaey,4.1,40,1566,16,210.0,software_testing
+Testowanie REST API - REST Assured Java,https://www.udemy.com/course/rest-assured-java/,Tester Oprogramowania,4.9,40,298,193,1260.0,software_testing
+Unit Testing in .NET,https://www.udemy.com/course/unit-testing-in-net/,Timo | C# Development | .NET  | DevOps,3.9,40,302,46,300.0,software_testing
+Jmeter接口性能及自动化测试实战,https://www.udemy.com/course/jmeter-performance-testing/,Yan Gao,4.8,38,237,91,900.0,software_testing
+Selenium Webdriver con JAVA: Aprende Automatizacion I,https://www.udemy.com/course/selenium-webdriver-con-java-aprende-automatizacion-i/,Winston Javier Castillo,3.3,37,137,101,1050.0,software_testing
+Aprenda JMeter em 1 Hora - Iniciante,https://www.udemy.com/course/aprenda-jmeter-em-1-hora-iniciante/,Escola de Devs Oficial,4.7,35,62,12,60.0,software_testing
+API Testing con POSTMAN :  QA y automatización paso a paso.,https://www.udemy.com/course/api-testing-con-postman-masterclass-paso-a-paso/,Esteban Balvin,4.9,34,366,47,390.0,software_testing
+Browserautomatisierung mit Python und Selenium,https://www.udemy.com/course/browserautomatisierung-mit-python-und-selenium/,Cedric Mössner,3.8,33,194,12,90.0,software_testing
+Arquitetura de testes de software - Curso COMPLETO!!,https://www.udemy.com/course/arquitetura-de-testes-de-software-curso-completo/,Alan Voigt,4.5,29,78,21,120.0,software_testing
+"Unit, Integration y E2E Testing en Fullstack JavaScript",https://www.udemy.com/course/unit-integration-e2e-testing-javascript-node-react/,Juan de Developero,4.7,28,219,138,840.0,software_testing
+Robot Framework Selenium Tutorial Deutsch,https://www.udemy.com/course/robot-framework-selenium-tutorial-deutsch/,Qcademy Software-Testing,3.6,28,184,22,180.0,software_testing
+FlutterでのはじめてのTDD(テスト 駆動開発)！【flutter testで、テストの第一歩から実導入まで】,https://www.udemy.com/course/flutter-tdd/,さく しん @Flutter修行中,4.3,28,255,102,390.0,software_testing
+Тестирование программного обеспечения,https://www.udemy.com/course/software-testing-fundamentals/,Pavel Novikov,4.3,27,104,33,330.0,software_testing
+Automação de Testes Android com Barista,https://www.udemy.com/course/automatizando-testes-nativos-para-android-com-o-barista/,Qazando Cursos,4.5,25,740,11,120.0,software_testing
+Cypress io | Sıfırdan İleri Seviyeye Web Otomasyon Testi,https://www.udemy.com/course/cypress-io-sifirdan-ileri-seviyeye-web-otomasyon-testi/,Mustafa Tayiz,4.4,24,162,57,450.0,software_testing
+Automação de Testes Web com CodeceptJS e WebDriver,https://www.udemy.com/course/automacao-de-testes-web-codeceptjs-webdriver/,Qazando Cursos,4.9,23,212,28,360.0,software_testing
+Testing exploratorio para agilizar tus pruebas,https://www.udemy.com/course/testing-exploratorio-para-agilizar-tus-pruebas/,Nadia Cavalleri,4.8,22,62,21,150.0,software_testing
+Automação de Testes Mobile com o Espresso Android e Kotlin,https://www.udemy.com/course/automatizando-testes-nativos-para-android-com-espresso/,Qazando Cursos,3.7,21,80,21,210.0,software_testing
+Automatisation des tests avec Robot Framework,https://www.udemy.com/course/automatisation-des-tests-avec-robot-framework/,Qualité Logiciel,4.7,21,79,29,210.0,software_testing
+Sıfırdan C# Selenium Bot Otomasyon Programlama,https://www.udemy.com/course/sifirdan-csharp-selenium-bot-programlama/,Ebubekir Bastama,3.4,20,62,40,330.0,software_testing
+Testare automată pentru începători!,https://www.udemy.com/course/testare-automata-pentru-incepatori/,FASTTRACKIT cursuri online,4.6,20,63,75,840.0,software_testing
+"QA Automation Serenity BDD, WebDriver, Java ,Git , Jenkis",https://www.udemy.com/course/qa-automation-serenity-bdd-webdriver-java-git-jenkis/,Henry Joseph Calani ambrocio,4.4,20,96,82,540.0,software_testing
+Oracle Virtualbox Tutorial Deutsch - Software Testing,https://www.udemy.com/course/oracle-virtualbox-tutorial-deutsch-videokurs/,Qcademy Software-Testing,3.8,19,106,14,90.0,software_testing
+Software Tester ABC Teil 2 - Software Testing Kurse Bündel,https://www.udemy.com/course/software-tester-abc-teil-2-software-testing-kurse-bundel/,Qcademy Software-Testing,4.4,18,231,50,270.0,software_testing
+Gatling 3,https://www.udemy.com/course/gatling3/,Flavio da Silveira Pepino,4.6,18,67,12,120.0,software_testing
+SoapUI + WebServices / Rest API 测试详解+实战演示,https://www.udemy.com/course/webservices-rest-api-testwith-soapui/,Yan Gao,4.7,17,160,121,1260.0,software_testing
+Testing en contextos ágiles,https://www.udemy.com/course/testing-en-contextos-agiles/,Nadia Cavalleri,4.7,16,56,19,240.0,software_testing
+Robot/AutoIT/Sikuli----覆盖Selenium WebDriver不能自动化测试的功能,https://www.udemy.com/course/robot-autoit-sikuli/,Yan Gao,4.5,16,424,10,90.0,software_testing
+Junit em Testes de Software,https://www.udemy.com/course/junit-em-testes-de-software/,Izac Claudino da Silva Junior,4.1,15,58,58,360.0,software_testing
+Telemetria Android | Formação Developer além do Log e LogCat,https://www.udemy.com/course/formacao-developer-telemetria-android-alem-do-log-e-logcat/,Marco Aurélio Dias de Oliveira,4.6,14,1124,49,240.0,software_testing
+Practical Software Testing Full Course,https://www.udemy.com/course/practical_software_testing_full_course/,Mohammed El Nenaey,5.0,14,42,66,690.0,software_testing
+Learn Manual Software Testing In Arabic.,https://www.udemy.com/course/manual-software-testing-in-arabic/,Mohamed Salah,4.6,14,123,11,120.0,software_testing
+[TDD] Développement piloté par les tests avec React Native,https://www.udemy.com/course/tdd-developpement-pilote-par-les-tests-avec-react-native/,Teddy Morin,4.1,13,134,31,240.0,software_testing
+Protractor - Realizza test end to end con Angular,https://www.udemy.com/course/protractor-end-to-end-testing-for-angular/,Riccardo Fusco,3.6,11,37,28,240.0,software_testing
+Unit Testing JavaScript,https://www.udemy.com/course/unit-testing-javascript/,KODE by Hacktiv8,4.8,11,67,15,210.0,software_testing
+Appium! Automatización de Pruebas en Dispositivos Móviles,https://www.udemy.com/course/appium-automatizacion-de-pruebas-en-dispositivos-moviles/,Mervin Alberto Diaz Lugo,3.4,11,177,22,420.0,software_testing
+Тестирование ПО. Теория + практика.,https://www.udemy.com/course/software_testing/,Vera Ratovska,3.9,11,26,22,150.0,software_testing
+"CI/CD para Testers: Jenkins, GitHub Actions a fondo!",https://www.udemy.com/course/cicd-para-testers-jenkins-github-actions-a-fondo/,The Free Range Tester,4.4,10,96,45,240.0,software_testing
+Testing de Software para Principiantes,https://www.udemy.com/course/testing-de-software-para-principiantes/,Luis Guevara Matias,4.4,10,15,11,60.0,software_testing
+X86软件逆向分析实战（一）,https://www.udemy.com/course/reverseskill01/,庆明 赵,3.4,10,65,79,1380.0,software_testing
+TestNG 测试框架完整版 - 从初学到精通,https://www.udemy.com/course/testng-complete-version/,Yan Gao,4.9,9,64,37,300.0,software_testing
+JUnit 从入门到精通,https://www.udemy.com/course/junit-ap/,Andrew Deng,4.3,9,32,20,90.0,software_testing
+SonarQube - Le guide complet (Édition 2022),https://www.udemy.com/course/sonarqube-le-guide-complet-edition-2021/,Best Tutorials,3.4,9,88,34,120.0,software_testing
+Dominando o PLAYWRIGHT!,https://www.udemy.com/course/dominando-o-playwright/,Alan Voigt,3.9,9,43,27,150.0,software_testing
+"[TELUGU] Complete Manual Testing, Agile & Jira with project",https://www.udemy.com/course/manualtestingintelugu/,kiran kumar kuchana,4.1,8,32,30,420.0,software_testing
+BSTQB - CTFL-UT (Teste de Usabilidade),https://www.udemy.com/course/bstqb-ctfl-ut-teste-usabilidade/,Luís Eduardo Pinheiro Pedrosa,3.7,8,23,0,,software_testing
+Les tests de performance avec JMETER de A à Z,https://www.udemy.com/course/les-tests-de-performance-avec-jmeter-de-a-a-z/,Qualité Logiciel,4.5,8,22,19,90.0,software_testing
+Pytest and Allure 测试框架教程和应用,https://www.udemy.com/course/pytest_allure/,Linda Fang,3.5,7,20,35,330.0,software_testing
+Cypress io باللغه العربيه,https://www.udemy.com/course/cypress-io/,Hatem Hatamleh,5.0,7,30,138,630.0,software_testing
+Learn API testing using Postman in Hindi/Urdu,https://www.udemy.com/course/learn-api-testing-using-postman-in-hindiurdu/,Zeeshan Asghar,5.0,7,21,10,750.0,software_testing
+Testes Automatizados usando Robot Framework - Módulo 2,https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-2/,Luiz Fernando Estivalet,4.4,7,56,46,300.0,software_testing
+Testing untuk Web Developer,https://www.udemy.com/course/testing-untuk-web-developer/,KODE by Hacktiv8,3.6,6,19,21,210.0,software_testing
+Learn Software Testing in Hindi,https://www.udemy.com/course/learn-software-testing-in-hindi/,Aarti Kothey,3.8,6,22,10,120.0,software_testing
+軟體 API測試從初學者到專業-完整的Postman指南,https://www.udemy.com/course/postman_testing/,Kenneth Hu,3.9,6,103,40,180.0,software_testing
+Software Tester & QA Experte der schnelle Einstieg,https://www.udemy.com/course/software-testing-fur-entwickler/,John Behrens,3.0,6,34,9,120.0,software_testing
+Selenium Webdriver con Python + pytest desde cero,https://www.udemy.com/course/selenium-python-de-cero/,Juan Luis Restituyo,4.2,5,15,51,300.0,software_testing
+Automação de Testes Mobile com XcUiTests,https://www.udemy.com/course/xcuitests/,Qazando Cursos,4.3,5,38,11,180.0,software_testing
+DEVENIR TESTEUR DES SYSTEMES EMBARQUES,https://www.udemy.com/course/test-des-systemes-embarques/,Qualité Logiciel,4.2,5,10,37,270.0,software_testing
+Postman  Cloud  para principiantes,https://www.udemy.com/course/postman-cloud-para-principiantes/,Luis Guevara Matias,1.7,4,183,5,34.0,software_testing
+Devops et Test Logiciel avec Azure Devops Test plan de A à Z,https://www.udemy.com/course/devops-et-test-logiciel-avec-azure-devops-test-plan-de-a-a-z/,Qualité Logiciel,5.0,4,5,24,120.0,software_testing
+2021 ISTQB Foundation Level Sertifika Türkçe Sınav Soruları,https://www.udemy.com/course/2021-istqb-foundation-level-sertifika-turkce-snav-sorular/,Asım Zorlu,2.9,4,14,0,,software_testing
+"Тестировщик ПО, стань Junior QA Engineer",https://www.udemy.com/course/junior-qa-engineer/,Kirill Zhdanov,5.0,4,12,8,120.0,software_testing
+Test logiciel : Réussir vos entretiens d'embauche  (2022),https://www.udemy.com/course/test-logiciel-reussir-vos-entretiens-dembauche-2022/,Qualité Logiciel,5.0,4,12,32,180.0,software_testing
+Simulado CTFL-AT,https://www.udemy.com/course/simulado-ctfl-at/,Alan Voigt,4.6,3,20,0,,software_testing
+Squach tm de A à Z : L'outil de gestion des tests Logiciel,https://www.udemy.com/course/squach-tm-de-a-a-z-loutil-de-gestion-des-tests-logiciel/,Qualité Logiciel,4.1,3,4,16,60.0,software_testing
+Testlink de A à Z  : L'outil de gestion des tests Logiciel,https://www.udemy.com/course/testlink-outil-de-gestion-des-tests-de-a-a-z/,Qualité Logiciel,5.0,3,7,28,180.0,software_testing
+QA קורס בדיקות תוכנה,https://www.udemy.com/course/qa-testing/,Guy Buaron,4.2,3,10,12,210.0,software_testing
+API Testing اختبار البرمجيات,https://www.udemy.com/course/api-testing/,Ahmed Hassan Ahmed,2.7,2,4,13,30.0,software_testing
+Practica para la certificación de ISTQB Foundation Level,https://www.udemy.com/course/practica-para-la-certificacion-de-istqb-foundation-level/,Felipe Farías,3.9,2,12,0,,software_testing
+Learn C# Unit Testing From Scratch [Arabic],https://www.udemy.com/course/learn-c-unit-testing-from-scratch-arabic/,Khalid ESSAADANI,5.0,2,3,29,180.0,software_testing
+SoapUI Para principiantes,https://www.udemy.com/course/soapui-para-principiantes/,Luis Guevara Matias,3.7,2,77,5,32.0,software_testing
+Kurs Java dla Testerów Oprogramowania,https://www.udemy.com/course/kurs-java-dla-testerow-oprogramowania/,Tester Oprogramowania,4.5,1,12,95,690.0,software_testing
+Software Test Process [In Arabic],https://www.udemy.com/course/software-test-process/,Mohammed El Nenaey,4.0,1,19,12,150.0,software_testing
+Angular JS測試驅動開發,https://www.udemy.com/course/angularttd/,Kenneth Hu,4.0,1,19,15,90.0,software_testing
+"Симулятор собеседования ""Тестировщик ПО"" 2021",https://www.udemy.com/course/junior-qa-engineer-s/,Denis Maurer,4.0,1,11,0,,software_testing
+Test API với REST ASSURE - Phần 1,https://www.udemy.com/course/rest-assure-phan-1/,Nhân Nguyễn Ngọc,5.0,1,1,34,300.0,software_testing
+தமிழ் மொழியில் Selenium கற்றுக்கொள்ளுங்கள் | Learn Selenium,https://www.udemy.com/course/selenium-tamil/,RAKESH P,3.5,1,155,28,420.0,software_testing
+Tester Oprogramowania (QA Tester) - Pytania rekrutacyjne,https://www.udemy.com/course/qa-tester-pytania-rekrutacyjne/,Cyfrowy Trener,5.0,1,58,0,,software_testing
+Test Tự Động ngôn ngữ JavaScript với cypress - Cơ Bản,https://www.udemy.com/course/cypress-co-ban/,Nhân Nguyễn Ngọc,5.0,1,1,26,150.0,software_testing
+Automatisation des test logiciels avec Katalon de A à Z,https://www.udemy.com/course/automatisation-des-test-logiciels-avec-katalon-de-a-a-z/,Qualité Logiciel,0.0,0,0,20,90.0,software_testing
+Test Android Mobile với APPIUM,https://www.udemy.com/course/test-android-mobile-voi-appium/,Nhân Nguyễn Ngọc,0.0,0,0,63,480.0,software_testing
+Fundamentos de Pruebas de Software - QA,https://www.udemy.com/course/fundamentos-de-pruebas-de-software-qa/,Carlos Carrillo García,0.0,0,2,59,600.0,software_testing
+E2E iOS Testing con Javascript,https://www.udemy.com/course/e2e-ios-testing-con-javascript/,Alessandro Arcella,0.0,0,2,39,150.0,software_testing
+BDD với Python và Allure Framework,https://www.udemy.com/course/bdd-voi-python-va-allure-framework/,Nhân Nguyễn Ngọc,0.0,0,0,69,480.0,software_testing
+XPath పూర్తి కోర్సు మన తెలుగు లో,https://www.udemy.com/course/xpath-full-course-in-telugu/,Yadagiri Reddy,0.0,0,0,13,210.0,software_testing
+Software Testing Level 2 بالعربي,https://www.udemy.com/course/software-testing-level-2/,Ahmed Hassan Ahmed,0.0,0,1,12,33.0,software_testing
+Selenium từ cơ bản đến nâng cao,https://www.udemy.com/course/selenium-tu-co-ban-va-nang-cao-voi-springboot/,Nhân Nguyễn Ngọc,0.0,0,0,212,1410.0,software_testing
+Testes Unitários em Java Utilizando o JUnit,https://www.udemy.com/course/testes-unidade-automaticos-software-junit/,Gustavo Farias 250.000+ Alunos,4.7,1833,20326,19,120.0,software_testing
+Test Driven Development con Java y Junit5,https://www.udemy.com/course/testdrivendevelopment/,Alejandro Polo Rangel,4.2,1093,18712,8,60.0,software_testing
+Что такое Тестирование ПО? Как и куда развиваться?,https://www.udemy.com/course/software-testing-demo/,Sergei Semenov,4.6,900,6564,6,41.0,software_testing
+Unit Test Yazma Sanatı,https://www.udemy.com/course/unit-test-yazma-sanati/,Baris Dere,4.5,837,31120,28,180.0,software_testing
+REST-Assured e Junit - Testando API - Direto ao ponto,https://www.udemy.com/course/teste-api-rest-assured/,Tiago Amaro,4.7,603,5344,14,120.0,software_testing
+Introdução aos testes automatizados,https://www.udemy.com/course/introducao-aos-testes-automatizados/,Walmyr Filho,4.6,479,4110,6,90.0,software_testing
+Kodlama Öğreniyorum,https://www.udemy.com/course/kodlama-ogreniyorum/,Serhat Tanuş,4.2,353,10576,8,37.0,software_testing
